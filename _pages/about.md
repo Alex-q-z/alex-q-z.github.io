@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a second-year at the College of the University of Chicago.
+I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago. Besides Mathematics and Computer Science, I am broadly interested in Economics, History, Art History, and the study of different cultures and languages.
 
 News
 ======
 ------
-No news at the moment. Check again later.
+06/17/19 This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division.
 
 Contact
 ======
