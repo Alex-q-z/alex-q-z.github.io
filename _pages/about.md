@@ -10,14 +10,18 @@ redirect_from:
 
 I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago. Besides Mathematics and Computer Science, I am broadly interested in Economics, International Relations, History, Art History, and the study of different cultures and languages.
 
+<br />
+
 News
 ======
+------
 **[June 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division.
 
 <br />
 
 Coursework @UChicago
 ======
+------
 ## Math/Stats
 MATH 16100-16200-16300 Honors Calculus 1, 2, 3<br />
 MATH 20250 Abstract Linear Algebra
@@ -34,6 +38,7 @@ HUMA 11500-11600 Philosophical Perspectives 1, 2
 
 Contact
 ======
+------
 I can be most easily reached at qizhengz at uchicago dot edu.
 
 
