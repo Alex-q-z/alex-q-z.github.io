@@ -15,6 +15,8 @@ News
 ------
 **[Feb 2020]** DDS paper submitted for SIGCOMM 2020!
 
+**[Oct 2019]** I start to work with Prof. Junchen Jiang at UChicago CS as an undergraduate research assistant on networked systems and machine learning.
+
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division.
 
 Coursework @UChicago
