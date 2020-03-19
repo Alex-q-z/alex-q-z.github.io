@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago. Besides Mathematics and Computer Science, I am broadly interested in Economics, International Relations, History, Art History, and the study of different cultures and languages.
+Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago.
 
 News
 ======
