@@ -18,15 +18,19 @@ News
 Coursework @UChicago
 ======
 ------
-## Math/Stats
-MATH 16100-16200-16300 Honors Calculus 1, 2, 3<br />
-MATH 20250 Abstract Linear Algebra
-## CS
-CMSC 15100-15200 Introduction to Computer Science 1, 2<br />
-CMSC 15400 Introduction to Computer Systems
-## Others
+# Math/Stats
+MATH 16100-16200-16300 Honors Calculus I-II-III<br />
+MATH 20250 Abstract Linear Algebra<br />
+MATH 20310-20410-20510 (Accelerated) Analysis in R^n I-II-III
+# CS
+CMSC 15100-15200 Introduction to Computer Science I-II<br />
+CMSC 15400 Introduction to Computer Systems<br />
+CMSC 23320 Foundations of Computer Networks<br />
+CMSC 27100 Discrete Mathematics
+# Others
 ARTH 16800 Arts of Japan<br />
-HUMA 11500-11600 Philosophical Perspectives 1, 2
+ARTH 16910 Modern Japanese Art and Architecture<br />
+HUMA 11500-11600 Philosophical Perspectives I-II
 
 Contact
 ======
