@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago.
 
-News
+### News
 ======
 ------
 **[Feb 2020]** DDS paper submitted for SIGCOMM 2020!
@@ -19,25 +19,28 @@ News
 
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division.
 
-Coursework @UChicago
+### Coursework @UChicago
 ======
 ------
-# Math & Stats
-MATH 16100-16200-16300 Honors Calculus I-II-III<br />
-MATH 20250 Abstract Linear Algebra<br />
-MATH 20310-20410-20510 (Accelerated) Analysis in R^n I-II-III<br />
-STAT 24400-24500 Statistical Theory and Methods I-II
-# CS
-CMSC 15100-15200 Introduction to Computer Science I-II<br />
-CMSC 15400 Introduction to Computer Systems<br />
-CMSC 23320 Foundations of Computer Networks<br />
-CMSC 27100 Discrete Mathematics
-# Others
-HUMA 11500-11600 Philosophical Perspectives I-II<br />
-ARTH 16800 Arts of Japan<br />
-ARTH 16910 Modern Japanese Art and Architecture
+#### Mathematics and Statistics
+⋅⋅* Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
+⋅⋅* Abstract Linear Algebra (MATH 20250)<br />
+⋅⋅* (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
+⋅⋅* Numerical Analysis (MATH 21100)<br />
+⋅⋅* Statistical Theory and Methods I-II (STAT 24400-24500)
+#### Computer Science
+⋅⋅* Introduction to Computer Science I-II (CMSC 15100-15200)<br />
+⋅⋅* Introduction to Computer Systems (CMSC 15400)<br />
+⋅⋅* Parallel Computing (CMSC 23010)<br />
+⋅⋅* Foundations of Computer Networks (CMSC 23320)<br />
+⋅⋅* Discrete Mathematics (CMSC 27100)
+#### Others
+⋅⋅* Philosophical Perspectives I-II (HUMA 11500-11600)<br />
+⋅⋅* Self, Culture, and Society I-II-III (SOSC 12400-12500-12600)
+⋅⋅* Arts of Japan (ARTH 16800)<br />
+⋅⋅* Modern Japanese Art and Architecture (ARTH 16910)
 
-Contact
+### Contact
 ======
 ------
 I can be most easily reached at qizhengz at uchicago dot edu.
