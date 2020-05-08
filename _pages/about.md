@@ -33,6 +33,7 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Discrete Mathematics (CMSC 27100)
 
 ### Others
+* Electricity & Magnetism (PHYS 13200)<br />
 * Philosophical Perspectives I-II (HUMA 11500-11600)<br />
 * Self, Culture, and Society I-II-III (SOSC 12400-12500-12600)
 * Arts of Japan (ARTH 16800)<br />
