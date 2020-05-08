@@ -23,18 +23,18 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
-* Statistical Theory and Methods I-II (STAT 24400-24500)
+* Statistical Theory and Methods I-II (STAT 24400-24500)<br />
 ### Computer Science
 * Introduction to Computer Science I-II (CMSC 15100-15200)<br />
 * Introduction to Computer Systems (CMSC 15400)<br />
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
-* Discrete Mathematics (CMSC 27100)
+* Discrete Mathematics (CMSC 27100)<br />
 ### Others
 * Philosophical Perspectives I-II (HUMA 11500-11600)<br />
 * Self, Culture, and Society I-II-III (SOSC 12400-12500-12600)
 * Arts of Japan (ARTH 16800)<br />
-* Modern Japanese Art and Architecture (ARTH 16910)
+* Modern Japanese Art and Architecture (ARTH 16910)<br />
 
 ## Contact
 I can be most easily reached at qizhengz at uchicago dot edu.
