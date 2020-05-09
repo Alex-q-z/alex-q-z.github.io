@@ -9,6 +9,7 @@ redirect_from:
 
 ### Notes
 Some notes organized by myself:
-* Statistical Theory and Probability
+* Probability Theory and Mathematical Statistics
+  These notes are based on my class notes for STAT 24400-24500 at UChicago.
 * Numerical Analysis
 * Computer Networks
