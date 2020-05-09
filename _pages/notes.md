@@ -15,4 +15,5 @@ Some notes organized by myself:
 * Computer Networks
 
 ## Research Notes @Argonne MCS
-* Notes on 3D reconstruction
+* Notes on computer vision and 3D reconstruction
+* Slides for my final talk "LightningBug 3D: Large-scale digitalization of insect specimens using incremental SfM"
