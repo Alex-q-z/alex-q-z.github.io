@@ -7,7 +7,7 @@ redirect_from:
   - /notes.html
 ---
 
-## Notes
+### Lecture Notes @UChicago
 Some notes organized by myself:
 * Probability Theory and Mathematical Statistics<br />
   These notes are based on my class notes for STAT 24400-24500 at UChicago.
