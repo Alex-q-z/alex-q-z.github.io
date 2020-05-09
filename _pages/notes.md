@@ -7,6 +7,7 @@ redirect_from:
   - /notes.html
 ---
 
+### Notes
 Some notes organized by myself:
 * Statistical Theory and Probability
 * Numerical Analysis
