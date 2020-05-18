@@ -42,4 +42,9 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 ## Contact
 I can be most easily reached at qizhengz at uchicago dot edu.
 
+## Miscellaneous
+### Personal Interests
+* Chinese and Japanese Art and Architecture
+* History and Philosophy of Science
+* Language study (French, Japanese)
 
