@@ -18,13 +18,6 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division.
 
 ## Coursework @UChicago
-### Mathematics and Statistics
-* Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
-* Abstract Linear Algebra (MATH 20250)<br />
-* (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
-* Numerical Analysis (MATH 21100)<br />
-* Statistical Theory and Methods I-II (STAT 24400-24500)
-
 ### Computer Science
 * Introduction to Computer Science I-II (CMSC 15100-15200)<br />
 * Introduction to Computer Systems (CMSC 15400)<br />
@@ -32,7 +25,12 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Foundations of Computer Networks (CMSC 23320)<br />
 * Discrete Mathematics (CMSC 27100)
 
-### Other Mathematical and Physical Sciences
+### Mathematical Sciences and Physics
+* Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
+* Abstract Linear Algebra (MATH 20250)<br />
+* (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
+* Numerical Analysis (MATH 21100)<br />
+* Statistical Theory and Methods I-II (STAT 24400-24500)<br />
 * Electricity & Magnetism (PHYS 13200)
 
 ### Others
@@ -50,4 +48,3 @@ I can be most easily reached at qizhengz at uchicago dot edu.
 * Chinese and Japanese Art and Architecture
 * History and Philosophy of Science
 * Language study (French, Japanese)
-
