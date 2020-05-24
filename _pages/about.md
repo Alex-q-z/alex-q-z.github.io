@@ -32,12 +32,15 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Foundations of Computer Networks (CMSC 23320)<br />
 * Discrete Mathematics (CMSC 27100)
 
+### Other Mathematical and Physical Sciences
+* Electricity & Magnetism (PHYS 13200)
+
 ### Others
-* Electricity & Magnetism (PHYS 13200)<br />
-* Philosophical Perspectives I-II (HUMA 11500-11600)<br />
-* Self, Culture, and Society I-II-III (SOSC 12400-12500-12600)
 * Arts of Japan (ARTH 16800)<br />
-* Modern Japanese Art and Architecture (ARTH 16910)
+* Modern Japanese Art and Architecture (ARTH 16910)<br />
+* Philosophical Perspectives I-II (HUMA 11500-11600)<br />
+* Self, Culture, and Society I-II-III (SOSC 12400-12500-12600)<br />
+* Intro to the Civilizations of East Asia I (EALC 10800)
 
 ## Contact
 I can be most easily reached at qizhengz at uchicago dot edu.
