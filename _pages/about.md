@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago. I am passionate about coding and exploring open questions in the field of computer science, especially networked systems at the moment. I plan to pursue a PhD in computer science upon graduation of college.
+Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago. I am passionate about coding and exploring open questions in the field of computer science, especially networked systems at the moment.
 
 ## News
 **[May 2020]** Our DDS paper is accepted and is to appear in SIGCOMM 2020!
