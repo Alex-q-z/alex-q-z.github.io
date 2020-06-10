@@ -19,10 +19,6 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division.
 
-## Education
-* 2018-2022 (expected), B.S. Mathematics, B.S. Computer Science, The University of Chicago, _Chicago, IL, United States_<br />
-* 2015-2018, High School Diploma, No.2 High School of East China Normal University, _Shanghai, China_
-
 ## Coursework @UChicago
 ### Mathematics and Statistics
 * Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
@@ -48,9 +44,6 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Philosophical Perspectives I-II (HUMA 11500-11600)<br />
 * Self, Culture, and Society I-II-III (SOSC 12400-12500-12600)<br />
 * Intro to the Civilizations of East Asia I (EALC 10800)
-
-## Contact
-I can be most easily reached at qizhengz at uchicago dot edu.
 
 ## Miscellaneous
 ### Personal Interests
