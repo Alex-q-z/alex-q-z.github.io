@@ -20,11 +20,13 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division.
 
 ## Coursework @UChicago
-### Mathematical and Statistics
+### Mathematics and Statistics
 * Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
+* Abstract Algebra I (MATH 25400, expected autumn 2020)<br />
+* Theory of Ordinary Differential Equations (MATH 27300, expected autumn 2020)<br />
 * Statistical Theory and Methods I-II (STAT 24400-24500)
 
 ### Computer Science
@@ -33,6 +35,7 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
 * Discrete Mathematics (CMSC 27100)
+* (Graduate) Statistical Machine Learning (TTIC 31020, expected autumn 2020)
 
 ### Others
 * Electricity & Magnetism (PHYS 13200)<br />
