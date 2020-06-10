@@ -11,10 +11,6 @@ redirect_from:
 Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago. I am passionate about coding and exploring open questions in the field of computer science, especially networked systems at the moment.
 
 ## News
-**[May 2020]** Our DDS paper is accepted and is to appear in SIGCOMM 2020!
-
-**[Feb 2020]** DDS paper submitted for SIGCOMM 2020!
-
 **[Oct 2019]** I start to work with Prof. Junchen Jiang at UChicago CS as an undergraduate research assistant on networked systems and video analytics.
 
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division.
