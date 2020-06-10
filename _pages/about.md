@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago.
+Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago. I am passionate about coding and exploring open questions in the field of computer science, especially networked systems at the moment. I plan to pursue a PhD in computer science upon graduation of college.
 
 ## News
 **[May 2020]** Our DDS paper is accepted and is to appear in SIGCOMM 2020!
 
 **[Feb 2020]** DDS paper submitted for SIGCOMM 2020!
 
-**[Oct 2019]** I start to work with Prof. Junchen Jiang at UChicago CS as an undergraduate research assistant on networked systems and machine learning.
+**[Oct 2019]** I start to work with Prof. Junchen Jiang at UChicago CS as an undergraduate research assistant on networked systems and video analytics.
 
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division.
+
+## Publications
+To be updated.
 
 ## Coursework @UChicago
 ### Mathematics and Statistics
@@ -53,3 +56,4 @@ I can be most easily reached at qizhengz at uchicago dot edu.
 * Chinese and Japanese Art and Architecture
 * History and Philosophy of Science
 * Language study (French, Japanese)
+* Competitive Programming (old memory now)
