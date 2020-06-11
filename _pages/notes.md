@@ -7,11 +7,10 @@ redirect_from:
   - /notes.html
 ---
 
-## Lecture Notes @UChicago
-Some notes organized by myself:
-* Probability Theory and Mathematical Statistics<br />
-  These notes are based on my class notes for STAT 24400-24500 at UChicago.
-* Numerical Analysis
+## Lecture Notes
+* [Discrete Mathematics](http://cmsc-27100.cs.uchicago.edu/2018-winter/lectures.php) (Lecture notes by Prof. Stuart Kurtz)<br />
+* Statistical and Probability Theory (based on class notes at UChicago)<br />
+* Numerical Analysis (based on class notes at UChicago)<br />
 * Computer Networks
 
 ## Research Notes @Argonne MCS
