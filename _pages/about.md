@@ -31,6 +31,7 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Operating Systems (CMSC 23000, expected autumn 2020)<br />
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
+* Intro to Database Systems (CMSC 23500, expected winter 2021)<br />
 * Discrete Mathematics (CMSC 27100)
 * (Graduate) Statistical Machine Learning (TTIC 31020, expected autumn 2020)
 
