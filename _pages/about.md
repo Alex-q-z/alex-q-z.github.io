@@ -26,8 +26,8 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Statistical Theory and Methods I-II (STAT 24400-24500)
 
 ### Computer Science
-* Introduction to Computer Science I-II (CMSC 15100-15200)<br />
-* Introduction to Computer Systems (CMSC 15400)<br />
+* Intro to Computer Science I-II (CMSC 15100-15200)<br />
+* Intro to Computer Systems (CMSC 15400)<br />
 * Operating Systems (CMSC 23000, expected autumn 2020)<br />
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
