@@ -21,19 +21,14 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
-* Abstract Algebra I (MATH 25400, expected autumn 2020)<br />
-* Theory of Ordinary Differential Equations (MATH 27300, expected autumn 2020)<br />
 * Statistical Theory and Methods I-II (STAT 24400-24500)
 
 ### Computer Science
 * Intro to Computer Science I-II (CMSC 15100-15200)<br />
 * Intro to Computer Systems (CMSC 15400)<br />
-* Operating Systems (CMSC 23000, expected autumn 2020)<br />
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
-* Intro to Database Systems (CMSC 23500, expected winter 2021)<br />
 * Discrete Mathematics (CMSC 27100)
-* (Graduate) Statistical Machine Learning (TTIC 31020, expected autumn 2020)
 
 ### Others
 * Electricity & Magnetism (PHYS 13200)<br />
