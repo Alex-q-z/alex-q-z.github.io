@@ -19,7 +19,7 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 ### Mathematics and Statistics
 * Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
 * Abstract Linear Algebra (MATH 20250)<br />
-* (Accelerated) Analysis I-II-III (MATH 20310-20410-20510)<br />
+* (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
 * Abstract Algebra I (MATH 25400, expected autumn 2020)<br />
 * Theory of Ordinary Differential Equations (MATH 27300, expected autumn 2020)<br />
