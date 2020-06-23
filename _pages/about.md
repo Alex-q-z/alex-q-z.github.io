@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago. I am passionate about coding and exploring open questions in the field of computer science, especially networked systems at the moment.
+Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago. 
 
 ## News
 **[Oct 2019]** I start to work with Prof. Junchen Jiang at UChicago CS as an undergraduate research assistant on networked systems and video analytics.
@@ -19,7 +19,7 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 ### Mathematics and Statistics
 * Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
 * Abstract Linear Algebra (MATH 20250)<br />
-* **(Accelerated)** Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
+* (Accelerated) Analysis I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
 * Abstract Algebra I (MATH 25400, expected autumn 2020)<br />
 * Theory of Ordinary Differential Equations (MATH 27300, expected autumn 2020)<br />
@@ -28,10 +28,11 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 ### Computer Science
 * Introduction to Computer Science I-II (CMSC 15100-15200)<br />
 * Introduction to Computer Systems (CMSC 15400)<br />
+* Operating Systems (CMSC 23000, expected autumn 2020)<br />
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
 * Discrete Mathematics (CMSC 27100)
-* **(Graduate)** Statistical Machine Learning (TTIC 31020, expected autumn 2020)
+* (Graduate) Statistical Machine Learning (TTIC 31020, expected autumn 2020)
 
 ### Others
 * Electricity & Magnetism (PHYS 13200)<br />
