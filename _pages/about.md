@@ -21,6 +21,7 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
+* Markov Chains, Martingales, and Brownian Motion (MATH 23500, expected autumn 2020)<br />
 * Statistical Theory and Methods I-II (STAT 24400-24500)
 
 ### Computer Science
