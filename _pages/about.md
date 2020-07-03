@@ -17,6 +17,10 @@ Hi there! I am currently a third-year Computer Science student at the University
 
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division. I will be contributing to the project _LightningBug: Mass Digitization of Pinned Insect Specimens_.
 
+## Publications
+
+## Research Experience
+
 ## Coursework @UChicago
 ### Mathematics and Statistics
 * Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
@@ -32,6 +36,7 @@ Hi there! I am currently a third-year Computer Science student at the University
 * Foundations of Computer Networks (CMSC 23320)<br />
 * Discrete Mathematics (CMSC 27100)
 
+<!---
 ### Others
 * Electricity & Magnetism (PHYS 13200)<br />
 * Arts of Japan (ARTH 16800)<br />
@@ -39,10 +44,4 @@ Hi there! I am currently a third-year Computer Science student at the University
 * Philosophical Perspectives I-II (HUMA 11500-11600)<br />
 * Self, Culture, and Society I-II-III (SOSC 12400-12500-12600)<br />
 * Intro to the Civilizations of East Asia I (EALC 10800)
-
-## Miscellaneous
-### Personal Interests
-* Chinese and Japanese Art and Architecture
-* History and Philosophy of Science
-* Language study (French, Japanese)
-* Competitive Programming (old memory now)
+-->
