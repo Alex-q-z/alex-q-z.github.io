@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a third-year Computer Science student at the University of Chicago. 
+I am a third-year undergraduate student at the University of Chicago, studying Computer Science (with a specialization in Computer Systems), Mathematics, and Statistics. I am currently working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. In specific, I am interested in developing reliable and efficient networked systems that enable machine-centric video streaming with deep neural networks.
 
 ## News
 **[May 2020]** Our DDS paper Server-Driven Video Streaming for Deep Learning Inference has been accepted and is to appear in **SIGCOMM 2020**. This summer I will continue to develop an integrated video analytics platform based on my learning from the DDS project.
