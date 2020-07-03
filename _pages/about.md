@@ -20,7 +20,7 @@ I am a third-year undergraduate student at the University of Chicago, studying C
 ## Publications
 - _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, <ins>Qizheng Zhang</ins>, Henry Hoffmann, Junchen Jiang._<br />
   Server-Driven Video Streaming for Deep Learning Inference<br />
-  **SIGCOMM 2020 (to appear)**
+  **ACM SIGCOMM 2020 (to appear)**
 
 <!---
 ## Research Projects
