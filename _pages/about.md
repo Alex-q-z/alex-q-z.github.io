@@ -17,10 +17,12 @@ Hi there! I am currently a third-year Computer Science student at the University
 
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division. I will be contributing to the project _LightningBug: Mass Digitization of Pinned Insect Specimens_.
 
+<!---
 ## Publications
 * Kuntai Du*, Ahsan Pervaiz*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang.
 Server-Driven Video Streaming for Deep Learning Inference
 SIGCOMM 2020 (to appear)
+-->
 
 <!---
 ## Research Experience
