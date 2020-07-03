@@ -22,11 +22,13 @@ I am a third-year undergraduate student at the University of Chicago, studying C
   Server-Driven Video Streaming for Deep Learning Inference<br />
   **SIGCOMM 2020 (to appear)**
 
+<!---
 ## Research Projects
 ### Integrated Video Analytics Platform (At UChicago)
 ### DNN-Driven Streaming (At UChicago)
 ### LightningBug (at Argonne National Lab)
 LightningBug is a system that enables mass digitization of pinned insect specimens. We work with museums across the US like the Field Museum and Yale Peabody  Museum of Natural History.
+-->
 
 ## Coursework @UChicago
 ### Mathematics and Statistics
