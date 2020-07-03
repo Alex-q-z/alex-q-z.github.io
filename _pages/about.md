@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a second-year undergraduate student studying Mathematics and Computer Science at the University of Chicago. 
+Hi there! I am currently a third-year Computer Science student at the University of Chicago. 
 
 ## News
-**[Oct 2019]** I start to work with Prof. Junchen Jiang at UChicago CS as an undergraduate research assistant on networked systems and video analytics.
+**[May 2020]** Our DDS paper _Server-Driven Video Streaming for Deep Learning Inference_ has been accepted and is to appear in **SIGCOMM 2020**. This summer I will continue to develop an integrated video analytics platform based on my learning from the DDS project.
 
-**[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division.
+**[Oct 2019]** I start to work with Prof. Junchen Jiang at UChicago CS as an undergraduate research assistant on computer networked systems and video analytics.
+
+**[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division. I will be contributing to the project _LightningBug: Mass Digitization of Pinned Insect Specimens_.
 
 ## Coursework @UChicago
 ### Mathematics and Statistics
@@ -21,7 +23,6 @@ Hi there! I am currently a second-year undergraduate student studying Mathematic
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
-* Markov Chains, Martingales, and Brownian Motion (MATH 23500, expected autumn 2020)<br />
 * Statistical Theory and Methods I-II (STAT 24400-24500)
 
 ### Computer Science
