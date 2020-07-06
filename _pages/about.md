@@ -58,3 +58,8 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * Self, Culture, and Society I-II-III (SOSC 12400-12500-12600)<br />
 * Intro to the Civilizations of East Asia I (EALC 10800)
 -->
+
+## Honors and Awards
+* Dean's List (2018-2019), The University of Chicago
+* Jeff Metcalf Summer Research Fellowship At Argonne, $4000
+* Soong Ching Ling Foundation Scholarship (2019-20), $12500
