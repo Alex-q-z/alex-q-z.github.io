@@ -35,18 +35,16 @@ LightningBug is a system that enables mass digitization of pinned insect specime
 -->
 
 ## Coursework @UChicago
-Besides research, I really enjoy my coursework in computer science, mathematics, and statistics. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. 
+Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.
 
 ### Mathematics and Statistics
-* Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
 * Statistical Theory and Methods I-II (STAT 24400-24500)
 
 ### Computer Science
-* Intro to Computer Science I-II (CMSC 15100-15200)<br />
-* Intro to Computer Systems (CMSC 15400)<br />
+* Introduction to Computer Systems (CMSC 15400)<br />
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
 * Discrete Mathematics (CMSC 27100)
