@@ -35,7 +35,7 @@ LightningBug is a system that enables mass digitization of pinned insect specime
 -->
 
 ## Coursework @UChicago
-Besides research, I really enjoy my coursework in computer science, mathematics, and statistics. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with a variety of locks like the TASLock, the Anderson Queue Lock, etc. 
+Besides research, I really enjoy my coursework in computer science, mathematics, and statistics. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. 
 
 ### Mathematics and Statistics
 * Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
