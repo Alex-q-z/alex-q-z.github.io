@@ -31,10 +31,11 @@ LightningBug is a system that enables mass digitization of pinned insect specime
 -->
 
 <!---
-## Personal Projects
+## Selected Personal Projects
+I enjoy learning computer science by implementing the things myself. Here are some of my personal projects:
 -->
 
-## Coursework @UChicago
+## Academic Coursework
 Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.
 
 ### Mathematics and Statistics
@@ -61,5 +62,5 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 
 ## Honors and Awards
 * Dean's List (2018-2019), The University of Chicago
-* Jeff Metcalf Summer Research Fellowship At Argonne, $4000
+* Jeff Metcalf Summer Research Fellowship at Argonne, $4000
 * Soong Ching Ling Foundation Scholarship (2019-20), $12500
