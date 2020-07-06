@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student at the University of Chicago, studying Computer Science (with a specialization in Computer Systems), Mathematics, and Statistics. I am currently working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. In specific, I am interested in developing reliable and efficient networked systems that enable machine-centric video streaming with deep neural networks.
+I am a rising third-year undergraduate student at the University of Chicago studying Computer Science, Mathematics, and Statistics. I am currently working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems.
 
 ## News
 **[May 2020]** Our DDS paper Server-Driven Video Streaming for Deep Learning Inference has been accepted and is to appear in **SIGCOMM 2020**. This summer I will continue to develop an integrated video analytics platform based on my learning from the DDS project.
@@ -30,7 +30,13 @@ I am a third-year undergraduate student at the University of Chicago, studying C
 LightningBug is a system that enables mass digitization of pinned insect specimens. We work with museums across the US like the Field Museum and Yale Peabody  Museum of Natural History.
 -->
 
+<!---
+## Personal Projects
+-->
+
 ## Coursework @UChicago
+Besides research, I really enjoy my coursework in computer science, mathematics, and statistics. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with a variety of locks like the TASLock, the Anderson Queue Lock, etc. 
+
 ### Mathematics and Statistics
 * Honors Calculus I-II-III (MATH 16100-16200-16300)<br />
 * Abstract Linear Algebra (MATH 20250)<br />
