@@ -64,3 +64,7 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * Dean's List (2018-2019), The University of Chicago
 * Jeff Metcalf Summer Research Fellowship at Argonne, $4000
 * Soong Ching Ling Foundation Scholarship (2019-20), $12500
+
+## Skills
+* 10k+ LoC: C/C++, Python
+* 1k+ LoC: Java, Typed Racket, R, MATLAB, LaTeX
