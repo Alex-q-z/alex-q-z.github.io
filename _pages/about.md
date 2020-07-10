@@ -45,12 +45,13 @@ Cumulative GPA: 3.93/4.0
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
-* Statistical Theory and Methods I-II (STAT 24400-24500)
+* Statistical and Probability Theory I-II (STAT 24400-24500)
 
 ### Computer Science
 * Introduction to Functional Programming (CMSC 15100)<br />
 * Data Structures and Algorithms (CMSC 15200)<br />
 * Introduction to Computer Systems (CMSC 15400)<br />
+* Operating Systems (CMSC 23000, in progress)<br />
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
 * Discrete Mathematics (CMSC 27100)
