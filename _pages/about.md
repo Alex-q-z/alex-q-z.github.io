@@ -13,8 +13,6 @@ I am a rising third-year undergraduate student at the University of Chicago stud
 ## News
 **[May 2020]** Our DDS paper Server-Driven Video Streaming for Deep Learning Inference has been accepted and is to appear in **SIGCOMM 2020**. This summer I will continue to develop an integrated video analytics platform based on my learning from the DDS project.
 
-**[Oct 2019]** I start to work with Prof. Junchen Jiang at UChicago CS as an undergraduate research assistant on computer networked systems and video analytics.
-
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division. I will be contributing to the project LightningBug: Mass Digitization of Pinned Insect Specimens.
 
 ## Publications
