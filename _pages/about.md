@@ -38,7 +38,7 @@ I enjoy learning computer science by implementing the things myself. Here are so
 ## Academic Coursework
 Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.<br />
 
-Cumulative GPA: 3.93/4.0
+Cumulative GPA: 3.93/4.0, A's (and a few A-'s) in all course below:
 
 ### Mathematics and Statistics
 * Honors Multivariate Calculus (MATH 16300)<br />
