@@ -39,12 +39,15 @@ I enjoy learning computer science by implementing the things myself. Here are so
 Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.
 
 ### Mathematics and Statistics
+* Honors Multivariate Calculus (MATH 16300)<br />
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
 * Statistical Theory and Methods I-II (STAT 24400-24500)
 
 ### Computer Science
+* Introduction to Functional Programming (CMSC 15100)<br />
+* Data Structures and Algorithms (CMSC 15200)<br />
 * Introduction to Computer Systems (CMSC 15400)<br />
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
@@ -61,10 +64,11 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 -->
 
 ## Honors and Awards
-* Dean's List (2018-2019), The University of Chicago
+* Dean's List (2018-2019, 2019-2020), The University of Chicago
 * Jeff Metcalf Summer Research Fellowship at Argonne, $4000
 * Soong Ching Ling Foundation Scholarship (2019-20), $12500
 
 ## Skills
 * 10k+ LoC: C/C++, Python
-* 1k+ LoC: Java, Typed Racket, R, MATLAB, LaTeX
+* 1k+ LoC: Java, Typed Racket, R, MATLAB
+* Tools: Git, LaTeX, Shell Scripting
