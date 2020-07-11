@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a rising third-year undergraduate student at the University of Chicago with a triple major in Computer Science, Mathematics, and Statistics. Currently, I am interested in computer systems (in general), and I am working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. Last summer, I worked with Dr. Mark Hereld as a summer research intern at the Mathematics and Computer Science Division of Argonne National Laboratory on system design for large-scale digitalization of insect specimens.
+Hi there! I am a rising third-year undergraduate student at the University of Chicago with a triple major in Computer Science, Mathematics, and Statistics. Currently, I am interested in computer systems (in general), and I am working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. Last summer, I worked with Dr. Mark Hereld as a summer research intern at the Mathematics and Computer Science Division of Argonne National Laboratory on system design for large-scale digitalization of insect specimens.<br />
+
+我会说中文。
 
 ## News
 **[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.
