@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third-year undergraduate student at the University of Chicago studying Computer Science, Mathematics, and Statistics. I am currently working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems.
+Hi there! I am a rising third-year undergraduate student at the University of Chicago with a triple major in Computer Science, Mathematics, and Statistics. Currently, I am interested in computer systems (in general), and I am working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. Last summer, I worked with Dr. Mark Hereld as a summer research intern at the Mathematics and Computer Science Division of Argonne National Laboratory on system design for large-scale digitalization of insect specimens.
 
 ## News
-**[May 2020]** Our DDS paper Server-Driven Video Streaming for Deep Learning Inference has been accepted and is to appear in **SIGCOMM 2020**. This summer I will continue to develop an integrated video analytics platform based on my learning from the DDS project.
+**[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.
 
+<!---
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division. I will be contributing to the project LightningBug: Mass Digitization of Pinned Insect Specimens.
+-->
 
 ## Publications
 - _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, <ins>Qizheng Zhang</ins>, Henry Hoffmann, Junchen Jiang._<br />
