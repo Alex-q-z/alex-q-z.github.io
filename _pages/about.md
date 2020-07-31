@@ -47,6 +47,8 @@ Cumulative GPA: 3.93/4.0
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
+* Markov Chains, Martingales, and Brownian Motion (MATH 23500, in progress)<br />
+* Abstract Algebra I (MATH 25400, in progress)<br />
 * Statistical and Probability Theory I-II (STAT 24400-24500)
 
 ### Computer Science
@@ -56,7 +58,8 @@ Cumulative GPA: 3.93/4.0
 * Operating Systems (CMSC 23000, in progress)<br />
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
-* Discrete Mathematics (CMSC 27100)
+* Discrete Mathematics (CMSC 27100)<br />
+* (Graduate) Machine Learning (TTIC 31020, in progress)
 
 <!---
 ### Others
