@@ -22,7 +22,7 @@ I am actively looking for a software engineering internship or a research intern
 ## Publications
 - _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, <ins>Qizheng Zhang</ins>, Henry Hoffmann, Junchen Jiang._<br />
   Server-Driven Video Streaming for Deep Learning Inference<br />
-  **SIGCOMM 2020 (to appear)**
+  **SIGCOMM 2020**
 
 <!---
 ## Research Projects
