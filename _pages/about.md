@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a rising third-year undergraduate student at the University of Chicago with a triple major in Computer Science, Mathematics, and Statistics. Currently, I am interested in computer systems (in general), and I am working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. Last summer, I worked with Dr. Mark Hereld as a summer research intern at the Mathematics and Computer Science Division of Argonne National Laboratory on system design for large-scale digitalization of insect specimens.<br />
+Hi there! I am a rising third-year undergraduate student at the University of Chicago studying Computer Science, Mathematics, and Statistics. Currently, I am working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. Last summer, I worked with Dr. Mark Hereld as a summer research intern at the Mathematics and Computer Science Division of Argonne National Laboratory on system design for large-scale digitalization of insect specimens.<br />
 
-我会说中文。
+I am actively looking for a software engineering internship or a research internship (in systems and networking) position for summer 2021.
 
-## News
+## Recent News
 **[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.
 
 <!---
@@ -22,7 +22,7 @@ Hi there! I am a rising third-year undergraduate student at the University of Ch
 ## Publications
 - _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, <ins>Qizheng Zhang</ins>, Henry Hoffmann, Junchen Jiang._<br />
   Server-Driven Video Streaming for Deep Learning Inference<br />
-  **ACM SIGCOMM 2020 (to appear)**
+  **SIGCOMM 2020 (to appear)**
 
 <!---
 ## Research Projects
@@ -59,7 +59,7 @@ Cumulative GPA: 3.93/4.0
 * Parallel Computing (CMSC 23010)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
 * Discrete Mathematics (CMSC 27100)<br />
-* (Graduate) Machine Learning (TTIC 31020, in progress)
+* (PhD-level) Machine Learning (TTIC 31020, in progress)
 
 <!---
 ### Others
@@ -72,9 +72,10 @@ Cumulative GPA: 3.93/4.0
 -->
 
 ## Honors and Awards
-* Dean's List (2018-2019, 2019-2020), The University of Chicago
+* two years of Dean's List (2018-2019, 2019-2020)
+* Robert Maynard Hutchins Scholars (academic performance ranked top 10% of class)
 * Jeff Metcalf Summer Research Fellowship at Argonne, $4000
-* Soong Ching Ling Foundation Scholarship (2019-20), $12500
+* Soong Ching Ling Foundation Scholarship, $12500
 
 ## Skills
 * 10k+ LoC: C/C++, Python
