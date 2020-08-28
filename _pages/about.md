@@ -38,28 +38,32 @@ I enjoy learning computer science by implementing the things myself. Here are so
 -->
 
 ## Selected Coursework
-<!---
 Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.<br />
 Cumulative GPA: 3.93/4.0
--->
+
 ### Mathematics and Statistics
 * Honors Multivariate Calculus (MATH 16300)<br />
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
+<!---
 * Markov Chains, Martingales, and Brownian Motion (MATH 23500, in progress)<br />
 * Abstract Algebra I (MATH 25400, in progress)<br />
+-->
 * Statistical and Probability Theory I-II (STAT 24400-24500)
 
 ### Computer Science
-* Introduction to Functional Programming (CMSC 15100)<br />
-* Data Structures and Algorithms (CMSC 15200)<br />
+* Intro to CS: Functional Programming (CMSC 15100)<br />
+* Intro to CS: Data Structures (CMSC 15200)<br />
 * Introduction to Computer Systems (CMSC 15400)<br />
-* Operating Systems (CMSC 23000, in progress)<br />
+* Operating Systems (CMSC 23000, in progress autumn '20)<br />
 * Parallel Computing (CMSC 23010)<br />
+* Introduction to Computer Security (CMSC 23200, expected winter '21)<br />
 * Foundations of Computer Networks (CMSC 23320)<br />
+* Introduction to Database Systems (CMSC 23500, expected winter '21)<br />
 * Discrete Mathematics (CMSC 27100)<br />
-* (PhD-level) Machine Learning (TTIC 31020, in progress)
+* Theory of Algorithms (CMSC 27200, expected winter '21)<br />
+* (PhD-level) Machine Learning (TTIC 31020, in progress autumn '20)
 
 <!---
 ### Others
