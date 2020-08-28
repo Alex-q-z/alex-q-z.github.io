@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a rising third-year undergraduate student at the University of Chicago studying Computer Science, Mathematics, and Statistics. Currently, I am working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. Last summer, I worked with Dr. Mark Hereld as a summer research intern at the Mathematics and Computer Science Division of Argonne National Laboratory on system design for large-scale digitalization of insect specimens.<br />
+Hi there! I am a rising third-year undergraduate student at the University of Chicago studying Computer Science and Mathematics. Currently, I am working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. Last summer, I worked with Dr. Mark Hereld as a summer research intern at the Mathematics and Computer Science Division of Argonne National Laboratory on system design for large-scale digitalization of insect specimens.<br />
 
 I am actively looking for a software engineering internship or a research internship (in systems and networking) position for summer 2021.
 
@@ -39,17 +39,13 @@ I enjoy learning computer science by implementing the things myself. Here are so
 
 ## Selected Coursework
 Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.<br />
-Cumulative GPA: 3.93/4.0
+Cumulative GPA: 3.93/4.0, GPA in Computer Science: 3.9/4.0, GPA in Mathematics: 4.0/4.0
 
 ### Mathematics and Statistics
 * Honors Multivariate Calculus (MATH 16300)<br />
 * Abstract Linear Algebra (MATH 20250)<br />
 * (Accelerated) Analysis in R^n I-II-III (MATH 20310-20410-20510)<br />
 * Numerical Analysis (MATH 21100)<br />
-<!---
-* Markov Chains, Martingales, and Brownian Motion (MATH 23500, in progress)<br />
-* Abstract Algebra I (MATH 25400, in progress)<br />
--->
 * Statistical and Probability Theory I-II (STAT 24400-24500)
 
 ### Computer Science
