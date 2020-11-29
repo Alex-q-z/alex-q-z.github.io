@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a rising third-year undergraduate student at the University of Chicago studying Computer Science and Mathematics. Currently, I am working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. Last summer, I worked with Dr. Mark Hereld as a summer research intern at the Mathematics and Computer Science Division of Argonne National Laboratory on system design for large-scale digitalization of insect specimens.<br />
+Hi there! I am a third-year undergraduate student at the University of Chicago studying Computer Science and Mathematics. Currently, I'm interested in computer networking, video analytics, deep learning systems, etc.<br />
 
-I am actively looking for a software engineering internship or a research internship (in systems and networking) position for summer 2021.
+Currently, I am working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. <br />
 
 ## Recent News
 **[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.
@@ -37,9 +37,15 @@ LightningBug is a system that enables mass digitization of pinned insect specime
 I enjoy learning computer science by implementing the things myself. Here are some of my personal projects:
 -->
 
-## Selected Coursework
-Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.<br />
+## Featured Coursework
+- Mathematics and Statistics: Honors Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n (accelerated track) I-II-III, Numerical Analysis, Stochastic Processes, Statistical Theory and Method I-II, Abstract Algebra
+- Computer Science: Intro to Computer Systems, Operating Systems, Parallel Computing, Computer Networks, Discrete Mathematics, Intro to Machine Learning (PhD)
 
+<!---
+Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.<br />
+-->
+
+<!---
 ### Mathematics and Statistics
 * Honors Multivariate Calculus (MATH 16300)<br />
 * Abstract Linear Algebra (MATH 20250)<br />
@@ -48,7 +54,9 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * Markov Chains, Martingales, and Brownian Motion (MATH 23500)<br />
 * Statistical Theory and Method I-II (STAT 24400-24500)<br />
 * Abstract Algebra I (MATH 25400)
+-->
 
+<!---
 ### Computer Science
 * Introductory Functional Programming (CMSC 15100)<br />
 * Data Structures (CMSC 15200)<br />
@@ -61,6 +69,7 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * Discrete Mathematics (CMSC 27100)<br />
 * Theory of Algorithms (CMSC 27200, expected winter '21)<br />
 * Introduction to Machine Learning (TTIC 31020, in progress)
+-->
 
 <!---
 ### Others
