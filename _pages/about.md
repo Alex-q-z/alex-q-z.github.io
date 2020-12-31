@@ -38,8 +38,8 @@ I enjoy learning computer science by implementing the things myself. Here are so
 -->
 
 ## Featured Coursework
-- Mathematics and Statistics: Honors Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n (accelerated track) I-II-III, Numerical Analysis, Stochastic Processes, Statistical Theory and Method I-II, Abstract Algebra
-- Computer Science: Intro to Computer Systems, Operating Systems, Parallel Computing, Computer Networks, Discrete Mathematics, Intro to Machine Learning (PhD)
+- Mathematics and Statistics: Honors Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n (accelerated track) I-II-III, Numerical Analysis, Abstract Algebra, Statistical and Probability Theory I-II, Stochastic Processes
+- Computer Science: Data Structures, Computer Systems, Operating Systems, Parallel Computing, Computer Security, Computer Networks, Database Systems, Discrete Mathematics, Algorithms, Machine Learning (PhD-level)
 
 <!---
 Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.<br />
