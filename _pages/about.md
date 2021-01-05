@@ -24,6 +24,10 @@ Currently, I am working with Prof. Junchen Jiang as a research assistant on vide
   Server-Driven Video Streaming for Deep Learning Inference<br />
   **SIGCOMM 2020**
 
+- _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, <ins>Qizheng Zhang</ins>, Henry Hoffmann, Junchen Jiang._<br />
+  DDS: Real-Time Analytics-Driven Video Streaming<br />
+  **NSDI 2020 (Poster)**
+
 <!---
 ## Research Projects
 ### Integrated Video Analytics Platform (At UChicago)
