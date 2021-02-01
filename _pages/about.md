@@ -24,10 +24,6 @@ Currently, I am working with Prof. Junchen Jiang as a research assistant on vide
   Server-Driven Video Streaming for Deep Learning Inference<br />
   **SIGCOMM 2020**
 
-- _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, <ins>Qizheng Zhang</ins>, Henry Hoffmann, Junchen Jiang._<br />
-  DDS: Real-Time Analytics-Driven Video Streaming<br />
-  **NSDI 2020 (Poster)**
-
 <!---
 ## Research Projects
 ### Integrated Video Analytics Platform (At UChicago)
@@ -42,8 +38,8 @@ I enjoy learning computer science by implementing the things myself. Here are so
 -->
 
 ## Featured Coursework
-- Mathematics and Statistics: Honors Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n (accelerated track) I-II-III, Numerical Analysis, Abstract Algebra, Statistical and Probability Theory I-II, Stochastic Processes
-- Computer Science: Data Structures, Computer Systems, Operating Systems, Parallel Computing, Computer Security, Computer Networks, Database Systems, Discrete Mathematics, Algorithms, Machine Learning (PhD-level)
+- Mathematics and Statistics: Honors Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n (accelerated track) I-II-III, Numerical Analysis, Abstract Algebra I-II, Statistical and Probability Theory I-II, Stochastic Processes
+- Computer Science: Data Structures, Computer Systems, Operating Systems, Parallel Computing, Computer Security, Computer Networks, Discrete Mathematics, Algorithms, Machine Learning, Natural Language Processing
 
 <!---
 Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.<br />
@@ -95,3 +91,4 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * 10k+ LoC: C/C++, Python
 * 1k+ LoC: Java, Typed Racket, R, MATLAB
 * Tools: Git, LaTeX, Shell Scripting
+* Libraries: PyTorch, Flask
