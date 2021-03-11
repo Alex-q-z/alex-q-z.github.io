@@ -20,6 +20,7 @@ Currently, I am working with Prof. Junchen Jiang as a research assistant on vide
 -->
 
 ## Publications
+_* indicates equivalent contribution_
 - _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, <ins>Qizheng Zhang</ins>, Henry Hoffmann, Junchen Jiang._<br />
   Server-Driven Video Streaming for Deep Learning Inference<br />
   **SIGCOMM 2020**
