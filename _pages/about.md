@@ -15,6 +15,7 @@ Hi there! I am a junior undergraduate student at the University of Chicago study
 
 ## Recent News
 **[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.<br />
+<br />
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division. I will be contributing to the project LightningBug: Mass Digitization of Pinned Insect Specimens.
 
 ## Publications
