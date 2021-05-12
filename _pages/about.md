@@ -10,11 +10,11 @@ redirect_from:
 
 Hi there! I am a junior undergraduate student at the University of Chicago studying Mathematics and Computer Science. Currently, I am working with Prof. Junchen Jiang on video analytics and networked systems. I mainly focus on: <br />
 - System Support for DNN-based Video Analytics
-- Video Compression
-- Video Codec Design
+- System Support for Efficient Video Compression
+- Customized Video Codec Design
 
 ## Recent News
-**[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.
+**[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.<br />
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division. I will be contributing to the project LightningBug: Mass Digitization of Pinned Insect Specimens.
 
 ## Publications
