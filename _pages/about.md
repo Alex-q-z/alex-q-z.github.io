@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a third-year undergraduate student at the University of Chicago studying Computer Science and Mathematics. Currently, I'm interested in computer networking, video analytics, deep learning systems, etc.<br />
-
-Currently, I am working with Prof. Junchen Jiang as a research assistant on video analytics and networked systems. <br />
+Hi there! I am a junior undergraduate student at the University of Chicago studying Mathematics and Computer Science. Currently, I am working with Prof. Junchen Jiang on video analytics and networked systems. I mainly focus on: <br />
+- System Support for DNN-based Video Analytics
+- Video Compression
+- Video Codec Design
 
 ## Recent News
 **[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.
-
-<!---
 **[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division. I will be contributing to the project LightningBug: Mass Digitization of Pinned Insect Specimens.
--->
 
 ## Publications
 _* indicates equivalent contribution_
-- _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, <ins>Qizheng Zhang</ins>, Henry Hoffmann, Junchen Jiang._<br />
+- _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang._<br />
   Server-Driven Video Streaming for Deep Learning Inference<br />
   **SIGCOMM 2020**
 
@@ -39,8 +37,8 @@ I enjoy learning computer science by implementing the things myself. Here are so
 -->
 
 ## Featured Coursework
-- Mathematics and Statistics: Honors Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n (accelerated track) I-II-III, Numerical Analysis, Abstract Algebra I-II, Statistical and Probability Theory I-II, Stochastic Processes
-- Computer Science: Data Structures, Functional Programming, Introduction to Computer Systems, Operating Systems, Parallel Computing, Computer Security, Computer Networking, Discrete Mathematics, Algorithms, Machine Learning, Natural Language Processing
+- Mathematics and Statistics: Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n I-II-III (accelerated track), Numerical Analysis, Markov Chains and Brownian Motions, Abstract Algebra I-II, Applied Regression Analysis, Statistical and Probability Theory I-II
+- Computer Science: Data Structures, Functional Programming, Introduction to Computer Systems, Operating Systems, Computer Networks, Computer Security, Parallel Computing, Graduate Operating Systems, Graduate Machine Learning, Natural Language Processing, Discrete Mathematics, Algorithms
 
 <!---
 Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.<br />
@@ -89,7 +87,7 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * Soong Ching Ling Foundation Scholarship, $12500
 
 ## Skills
-* 10k+ LoC: C/C++, Python
-* 1k+ LoC: Java, Typed Racket, R, MATLAB
+* 10k+ LoC: C, Python
+* 1k+ LoC: C++, Java, R, Matlab
 * Tools: Git, LaTeX, Shell Scripting
 * Libraries: PyTorch, Flask
