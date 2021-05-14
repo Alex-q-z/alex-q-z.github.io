@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 Hi there! I am a junior undergraduate student at the University of Chicago studying Mathematics and Computer Science. Currently, I am working with Prof. Junchen Jiang on video analytics and networked systems. My research interests lie broadly in systems and networking. Some of my recent work focuses on <br />
-- System Support for DNN-based Video Analytics [DDS, SIGCOMM'20]
-- System Support for Efficient Video Compression
+- System Support for Video Analytics [DDS, SIGCOMM'20]
+- Machine Learning Systems
+- Edge Computing Systems
 - Customized Video Codec Design
 
 ## Recent News
