@@ -25,21 +25,20 @@ _* indicates equivalent contribution_
   Server-Driven Video Streaming for Deep Learning Inference<br />
   **SIGCOMM 2020**
 
-<!---
-## Research Projects
-### Integrated Video Analytics Platform (At UChicago)
-### DNN-Driven Streaming (At UChicago)
-### LightningBug (at Argonne National Lab)
-LightningBug is a system that enables mass digitization of pinned insect specimens. We work with museums across the US like the Field Museum and Yale Peabody  Museum of Natural History.
--->
+## Research
+- Video Analytics and Networked Systems (Autumn 2019 - Present)<br />
+with Kuntai Du and Anton Arapin, Supervised by Prof. Junchen Jiang (UChicago)
 
 <!---
-## Selected Personal Projects
-I enjoy learning computer science by implementing the things myself. Here are some of my personal projects:
+## Selected Projects
 -->
 
-## Featured Coursework
-- Mathematics and Statistics: Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n I-II-III (accelerated track), Numerical Analysis, Markov Chains and Brownian Motions, Abstract Algebra I-II, Applied Regression Analysis, Statistical and Probability Theory I-II
+## Academics
+The University of Chicago - B.S. in Mathematics, B.S. in Computer Science, B.A. in Statistics<br />
+Cumulative GPA: 3.9/4.0, Computer Science GPA: 3.95/4.0<br />
+<br />
+Selected Coursework<br />
+- Mathematics: Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n I-II-III (accelerated track), Numerical Analysis, Markov Chains and Brownian Motions, Abstract Algebra I-II, Applied Regression Analysis, Statistical and Probability Theory I-II
 - Computer Science: Data Structures, Functional Programming, Introduction to Computer Systems, Operating Systems, Computer Networks, Computer Security, Parallel Computing, Graduate Operating Systems, Graduate Machine Learning, Natural Language Processing, Discrete Mathematics, Algorithms
 
 <!---
