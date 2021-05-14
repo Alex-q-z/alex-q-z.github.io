@@ -34,11 +34,12 @@ with Kuntai Du and Anton Arapin, Supervised by Prof. Junchen Jiang (UChicago)
 -->
 
 ## Academics
-The University of Chicago - B.S. in Mathematics, B.S. in Computer Science, B.A. in Statistics<br />
+The University of Chicago, September 2018 - June 2022 (expected)<br />
+B.S. in Mathematics, B.S. in Computer Science, B.A. in Statistics<br />
 Cumulative GPA: 3.9/4.0, Computer Science GPA: 3.95/4.0<br />
 <br />
 Selected Coursework<br />
-- Mathematics: Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n I-II-III (accelerated track), Numerical Analysis, Markov Chains and Brownian Motions, Abstract Algebra I-II, Applied Regression Analysis, Statistical and Probability Theory I-II
+- Mathematics: Proof-based Calculus and Multivariate Calculus (Honors), Abstract Linear Algebra, Analysis in R^n I-II-III (accelerated track), Numerical Analysis, Markov Chains and Brownian Motions, Abstract Algebra I-II, Applied Regression Analysis, Statistical and Probability Theory I-II
 - Computer Science: Data Structures, Functional Programming, Introduction to Computer Systems, Operating Systems, Computer Networks, Computer Security, Parallel Computing, Graduate Operating Systems, Graduate Machine Learning, Natural Language Processing, Discrete Mathematics, Algorithms
 
 <!---
