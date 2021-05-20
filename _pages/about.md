@@ -38,7 +38,7 @@ Supervised by Dr. Mark Hereld (Argonne National Lab)
 
 ## Academics
 The University of Chicago, September 2018 - June 2022 (expected)<br />
-B.S. in Mathematics, B.S. in Computer Science, B.A. in Statistics<br />
+B.S. in Mathematics, B.S. in Computer Science<br />
 Cumulative GPA: 3.9/4.0, Computer Science GPA: 3.95/4.0<br />
 <br />
 Selected Coursework<br />
