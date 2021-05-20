@@ -29,7 +29,6 @@ _* indicates equivalent contribution_
 ## Research
 - Video Analytics and Networked Systems (Autumn 2019 - Present)<br />
 with Kuntai Du and Anton Arapin, Supervised by Prof. Junchen Jiang (UChicago)
-<br />
 - 3D Image Reconstruction (June 2019 - August 2019)<br />
 Supervised by Dr. Mark Hereld (Argonne National Lab)
 
