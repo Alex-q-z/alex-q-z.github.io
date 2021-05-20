@@ -10,9 +10,10 @@ redirect_from:
 
 Hi there! I am a junior undergraduate student at the University of Chicago studying Mathematics and Computer Science. Currently, I am working with Prof. Junchen Jiang on video analytics and networked systems. My research interests lie broadly in systems and networking. Some of my recent work focuses on <br />
 - System Support for Video Analytics [DDS, SIGCOMM'20]
-- Machine Learning Systems
-- Edge Computing Systems
-- Customized Video Codec Design
+- Edge Computing
+- Video Codec Design
+
+I will be applying to Computer Science PhD programs in Autumn 2021.
 
 ## Recent News
 **[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.<br />
@@ -28,6 +29,9 @@ _* indicates equivalent contribution_
 ## Research
 - Video Analytics and Networked Systems (Autumn 2019 - Present)<br />
 with Kuntai Du and Anton Arapin, Supervised by Prof. Junchen Jiang (UChicago)
+<br />
+- 3D Image Reconstruction (June 2019 - August 2019)<br />
+Supervised by Dr. Mark Hereld (Argonne National Lab)
 
 <!---
 ## Selected Projects
@@ -89,7 +93,7 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * Soong Ching Ling Foundation Scholarship, $12500
 
 ## Skills
-* 10k+ LoC: C, Python
-* 1k+ LoC: C++, Java, R, Matlab
+* Proficient: C, Python
+* Basic Knowledge: C++, Java, R, Matlab
 * Tools: Git, LaTeX, Shell Scripting
 * Libraries: PyTorch, Flask
