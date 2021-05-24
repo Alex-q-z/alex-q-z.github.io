@@ -39,7 +39,6 @@ Supervised by Dr. Mark Hereld (Argonne National Lab)
 ## Academics
 The University of Chicago, September 2018 - June 2022 (expected)<br />
 B.S. in Mathematics, B.S. in Computer Science<br />
-Cumulative GPA: 3.9/4.0, Computer Science GPA: 3.95/4.0<br />
 <br />
 Selected Coursework<br />
 - Mathematics: Proof-based Calculus and Multivariate Calculus (Honors), Abstract Linear Algebra, Analysis in R^n I-II-III (accelerated track), Numerical Analysis, Markov Chains and Brownian Motions, Abstract Algebra I-II, Applied Regression Analysis, Statistical and Probability Theory I-II
