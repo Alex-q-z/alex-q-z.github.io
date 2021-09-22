@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student studying computer science, mathematics and statistics at the University of Chicago, where I'm fortunate to work with Prof. Junchen Jiang on networked systems. Besides, I am fortunate to collaborate with Prof. Ravi Netravali (at Princeton) to work on video analytics.
+I am a senior undergraduate student studying computer science, mathematics and statistics at the University of Chicago, where I'm fortunate to work with Prof. Junchen Jiang on networked systems. 
+
+<!---
+Besides, I am fortunate to collaborate with Prof. Ravi Netravali (at Princeton) to work on video analytics.
+-->
 
 Currently, my research interests lie broadly in systems and networking. During my undergraduate years, I focused primarily on building resource-efficient networked systems for video analytics applications. In particular, I am interested in using ideas from traditional systems like video codecs to design systems that handle emerging machine learning workloads.
 
