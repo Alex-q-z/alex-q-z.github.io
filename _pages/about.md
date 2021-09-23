@@ -23,7 +23,7 @@ I will be applying to PhD programs in Computer Science this autumn.
 _* indicates equivalent contribution_
 - _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang._<br />
   Server-Driven Video Streaming for Deep Learning Inference<br />
-  **SIGCOMM 2020**
+  **ACM SIGCOMM 2020**
 
 ## Research
 - Video Analytics (June 2020 - Present)<br />
