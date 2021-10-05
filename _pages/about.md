@@ -98,7 +98,7 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 -->
 
 ## Honors and Awards
-* two years of Dean's List (2018-2019, 2019-2020)
+* Dean's List (2018-2020, multiple years)
 * Robert Maynard Hutchins Scholars (academic performance ranked top 10% of class)
 * Jeff Metcalf Summer Research Fellowship at Argonne, $4000
 * Soong Ching Ling Foundation Scholarship, $12500
