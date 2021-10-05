@@ -80,9 +80,12 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * MATH 21100 Basic Numerical Analysis
 * MATH 23500 Markov Chains, Martingales, and Brownian Motion
 * MATH 25400-25500 Abstract Algebra I-II
+* MATH 27300 Basic Theory of Ordinary Differential Equations (IP)
 * STAT 22400 Applied Regression Analysis
 * STAT 24400-24500 Statistical Theory and Method I-II
+* STAT 24620 Multivariate Statistical Analysis (IP)
 * STAT 27420 Causal Inference with Machine Learning
+* STAT 28000 Mathematical Optimization (IP)
 
 <!---
 ### Others
