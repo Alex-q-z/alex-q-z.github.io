@@ -68,10 +68,10 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * CMSC 25700 Natural Language Processing
 * CMSC 27100 Discrete Mathematics
 * CMSC 27200 Theory of Algorithms
-* CMSC 28400 Introduction to Cryptography (IP)
-* CMSC 33100 Graduate Operating Systems (PhD class)
+* CMSC 28400 Introduction to Cryptography
+* CMSC 33100 Advanced Operating Systems (PhD class)
+* CMSC 33300 Networks and Distributed Systems (PhD class)
 * TTIC 31020 Introduction to Machine Learning (PhD class)
-* TTIC 31040 Introduction to Computer Vision (IP)
 
 ### Mathematics and Statistics
 * MATH 16100-16200-16300 Honors Calculus I-II-III
@@ -82,7 +82,7 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * MATH 25400-25500 Abstract Algebra I-II
 * STAT 22400 Applied Regression Analysis
 * STAT 24400-24500 Statistical Theory and Method I-II
-* STAT 27420 Introduction to Causal Inference (IP)
+* STAT 27420 Causal Inference with Machine Learning
 
 <!---
 ### Others
