@@ -28,7 +28,7 @@ _* indicates equivalent contribution_
   **In submission**
 
 - _Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang._<br />
-  AccMPEG: Optimizing Video Encoding for Video Analytics
+  AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   **In submission**
 
 - _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang._<br />
