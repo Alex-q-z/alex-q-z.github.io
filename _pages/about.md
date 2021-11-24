@@ -35,6 +35,13 @@ _* indicates equivalent contribution_
   Server-Driven Video Streaming for Deep Learning Inference<br />
   **SIGCOMM 2020**
 
+## Honors and Awards
+* Phi Beta Kappa, 2021
+* Dean's Honor List, 2018-2020
+* Robert Maynard Hutchins Scholars, 2020
+* Soong Ching Ling Foundation Scholarship ($12500), 2020
+* Jeff Metcalf Summer Research Fellowship ($4000), 2019
+
 <!---
 ## Research
 - Video Analytics (June 2020 - Present)<br />
@@ -114,11 +121,3 @@ Proof-based Calculus and Multivariate Calculus (Honors), Abstract Linear Algebra
 * Self, Culture, and Society I-II-III (SOSC 12400-12500-12600)<br />
 * Intro to the Civilizations of East Asia I (EALC 10800)
 -->
-
-## Honors and Awards
-* Phi Beta Kappa, 2021
-* Dean's Honor List, 2018-2020
-* Robert Maynard Hutchins Scholars, 2020
-* Soong Ching Ling Foundation Scholarship ($12500), 2020
-* Jeff Metcalf Summer Research Fellowship ($4000), 2019
-
