@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student studying computer science, mathematics and statistics at the University of Chicago, where I'm fortunate to work with Prof. Junchen Jiang on networked systems. Besides, I am fortunate to collaborate with Prof. Ravi Netravali (at Princeton) to work on video analytics.
+I am a senior undergraduate student studying computer science, mathematics and statistics at the University of Chicago, where I'm fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali (at Princeton) to work on video analytics.
 
-Currently, my research interests lie broadly in systems and networking. During my undergraduate years, I focused primarily on building resource-efficient networked systems for video analytics applications. In particular, I am interested in using ideas from traditional systems like video codecs to design systems that handle emerging machine learning workloads.
+Currently, my research interests lie broadly in systems and networking. During my undergraduate years, I focused primarily on building high-performing and resource-efficient networked systems for video analytics applications. 
 
-I will be applying to PhD programs in Computer Science this autumn.
+I am currently applying to PhD programs in Computer Science that start in Fall 2023.
 
 ## Recent News
 **[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.<br />
@@ -21,10 +21,19 @@ I will be applying to PhD programs in Computer Science this autumn.
 
 ## Publications
 _* indicates equivalent contribution_
-- _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang._<br />
-  Server-Driven Video Streaming for Deep Learning Inference<br />
-  **ACM SIGCOMM 2020**
+- _**Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang._<br />
+  Understanding the Potential of Server-Driven Edge Video Analytics<br />
+  **In submission**
 
+- _Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang._<br />
+  AccMPEG: Optimizing Video Encoding for Video Analytics
+  **In submission**
+
+- _Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang._<br />
+  Server-Driven Video Streaming for Deep Learning Inference<br />
+  **SIGCOMM 2020**
+
+<!---
 ## Research
 - Video Analytics (June 2020 - Present)<br />
 with Kuntai Du and Anton Arapin, Supervised by Prof. Junchen Jiang
@@ -32,16 +41,15 @@ with Kuntai Du and Anton Arapin, Supervised by Prof. Junchen Jiang
 with Kuntai Du, Prof. Junchen Jiang
 - 3D Image Reconstruction (June 2019 - August 2019)<br />
 Supervised by Dr. Mark Hereld (Argonne National Lab)
+-->
 
 <!---
 ## Selected Projects
 -->
 
 ## Skills
-* Proficient: C/C++, Python
-* Basic Knowledge: Java, R, Matlab
-* Tools: Git, LaTeX, Shell Scripting
-* Libraries: PyTorch, Flask
+* Programmming: C, C++, Python, Bash, SQL, Matlab, R
+* Technologies: Linux, Make, Git, Vim, Visual Studio, Wireshark, GDB, LaTeX
 
 ## Selected Coursework
 <!---
@@ -58,6 +66,9 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 -->
 
 ### Computer Science
+Data Structures, Computer Systems, Operating Systems, Parallel Computing, Computer Security, Computer Networks, Database Systems, Advanced Operating Systems (PhD class), Networks and Distributed Systems (PhD class), Machine Learning (PhD class), Natural Language Processing, Discrete Mathematics, Algorithms, Cryptography
+
+<!---
 * CMSC 15100-15200 Introduction to Computer Science I-II
 * CMSC 15400 Introduction to Computer Systems
 * CMSC 23000 Operating Systems
@@ -72,8 +83,12 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * CMSC 33100 Advanced Operating Systems (PhD class)
 * CMSC 33300 Networks and Distributed Systems (PhD class)
 * TTIC 31020 Introduction to Machine Learning (PhD class)
+-->
 
 ### Mathematics and Statistics
+Proof-based Calculus and Multivariate Calculus (Honors), Abstract Linear Algebra, Analysis in R^n I-II-III (Accelerated track), Numerical Analysis, Stochastic Processes, Abstract Algebra I-II, Applied Regression Analysis, Mathematical Statistics and Probability Theory I-II, Causal Inference with Machine Learning
+
+<!---
 * MATH 16100-16200-16300 Honors Calculus I-II-III
 * MATH 20250 Abstract Linear Algebra
 * MATH 20310-20410-20510 Analysis in R^n I-II-III (accelerated track)
@@ -86,6 +101,7 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 * STAT 24620 Multivariate Statistical Analysis (IP)
 * STAT 27420 Causal Inference with Machine Learning
 * STAT 28000 Mathematical Optimization (IP)
+-->
 
 <!---
 ### Others
@@ -98,7 +114,9 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 -->
 
 ## Honors and Awards
-* Dean's List (2018-2020, multiple years)
-* Robert Maynard Hutchins Scholars (academic performance ranked top 10% of class)
-* Jeff Metcalf Summer Research Fellowship at Argonne, $4000
-* Soong Ching Ling Foundation Scholarship, $12500
+* Phi Beta Kappa, 2021
+* Dean's Honor List, 2018-2020
+* Robert Maynard Hutchins Scholars, 2020
+* Soong Ching Ling Foundation Scholarship ($12500), 2020
+* Jeff Metcalf Summer Research Fellowship ($4000), 2019
+
