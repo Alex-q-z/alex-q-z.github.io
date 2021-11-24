@@ -12,7 +12,7 @@ I am a senior undergraduate student studying computer science, mathematics and s
 
 Currently, my research interests lie broadly in systems and networking. During my undergraduate years, I focused primarily on building high-performing and resource-efficient networked systems for video analytics applications. 
 
-I am currently applying to PhD programs in Computer Science that start in Fall 2023.
+I am currently applying to PhD programs in Computer Science that start in Fall 2022.
 
 ## Recent News
 **[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.<br />
