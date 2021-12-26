@@ -10,7 +10,10 @@ redirect_from:
 
 I am a senior undergraduate student studying computer science, mathematics and statistics at the University of Chicago, where I'm fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali (at Princeton) to work on video analytics.
 
+<!---
 Currently, my research interests lie broadly in systems and networking. During my undergraduate years, I focused primarily on building high-performing and resource-efficient networked systems for video analytics applications. 
+-->
+My primary research interest is in computer systems and networking. In particular, I’m interested in building systems for large-scale and distributed workloads & applications. My past research has focused on video encoding and streaming systems, multimedia streaming systems, etc. I have worked extensively with machine learning and computer vision workloads.
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" (in public key encryption). I also go by Alex.
 
