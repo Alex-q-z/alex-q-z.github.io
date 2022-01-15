@@ -36,7 +36,7 @@ _* indicates equivalent contribution_
 
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
-  **Under Review**
+  **MLSys 2022 (to appear)**
 
 - Server-Driven Video Streaming for Deep Learning Inference<br />
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
