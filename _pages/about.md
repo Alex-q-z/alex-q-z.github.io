@@ -82,7 +82,7 @@ Besides research, I really enjoy my coursework in computer science. For my intro
 -->
 
 ### Computer Science
-Data Structures, Computer Systems, Operating Systems, Parallel Computing, Computer Security, Computer Networks, Database Systems, Advanced Operating Systems (PhD class), Networks and Distributed Systems (PhD class), Machine Learning (PhD class), Natural Language Processing, Discrete Mathematics, Algorithms, Cryptography
+Data Structures, Computer Systems, Operating Systems, Parallel Computing, Computer Security, Computer Networks, Database Systems, Advanced Operating Systems (PhD class), Networks and Distributed Systems (PhD class), Machine Learning (PhD class), Computer Vision, Natural Language Processing, Discrete Mathematics, Algorithms, Cryptography
 
 <!---
 * CMSC 15100-15200 Introduction to Computer Science I-II
@@ -102,7 +102,7 @@ Data Structures, Computer Systems, Operating Systems, Parallel Computing, Comput
 -->
 
 ### Mathematics and Statistics
-Proof-based Calculus and Multivariate Calculus (Honors), Abstract Linear Algebra, Analysis in R^n I-II-III (Accelerated track), Numerical Analysis, Stochastic Processes, Abstract Algebra I-II, Applied Regression Analysis, Mathematical Statistics and Probability Theory I-II, Causal Inference with Machine Learning
+Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n I-II-III (Accelerated-track), Numerical Analysis, Stochastic Processes, Ordinary Differential Equations, Abstract Algebra I-II, Applied Regression Analysis, Mathematical Statistics and Probability Theory I-II, Causal Inference with Machine Learning
 
 <!---
 * MATH 16100-16200-16300 Honors Calculus I-II-III
