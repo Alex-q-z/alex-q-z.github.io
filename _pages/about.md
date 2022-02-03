@@ -30,13 +30,13 @@ I am currently applying to PhD programs in Computer Science that start in Fall 2
 
 ## Publications
 _* indicates equivalent contribution_
-- Understanding the Potential of Server-Driven Edge Video Analytics<br />
-  **Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang<br />
-  **ACM HotMobile 2022 (to appear)**
-
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
   **MLSys 2022 (to appear)**
+  
+- Understanding the Potential of Server-Driven Edge Video Analytics<br />
+  **Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang<br />
+  **ACM HotMobile 2022 (to appear)**
 
 - Server-Driven Video Streaming for Deep Learning Inference<br />
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
