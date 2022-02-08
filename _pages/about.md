@@ -64,7 +64,7 @@ Supervised by Dr. Mark Hereld (Argonne National Lab)
 -->
 
 ## Skills
-* Programmming: C, C++, Python, Bash, SQL, Matlab, R
+* Programmming: C, C++, Python, Rust, Bash, SQL, Matlab, R
 * Technologies: Linux, Make, Git, Vim, Visual Studio, Wireshark, GDB, LaTeX
 
 ## Selected Coursework
