@@ -36,7 +36,7 @@ _* indicates equivalent contribution_
   
 - Understanding the Potential of Server-Driven Edge Video Analytics<br />
   **Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang<br />
-  **ACM HotMobile 2022 (to appear)**
+  **ACM HotMobile 2022**
 
 - Server-Driven Video Streaming for Deep Learning Inference<br />
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
