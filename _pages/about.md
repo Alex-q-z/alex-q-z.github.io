@@ -38,7 +38,7 @@ _* indicates equivalent contribution_
   **Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang<br />
   **ACM HotMobile 2022**
 
-- Server-Driven Video Streaming for Deep Learning Inference [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf)<br /> 
+- Server-Driven Video Streaming for Deep Learning Inference [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)<br /> 
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
   **ACM SIGCOMM 2020**
 
