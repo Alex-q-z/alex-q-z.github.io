@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student studying computer science, mathematics and statistics at the University of Chicago, where I'm fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali (at Princeton) to work on video analytics.
+I am a senior undergraduate student studying computer science, mathematics and statistics at the University of Chicago, where I'm fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali at Princeton University to work on video analytics. Previously, I have also interned as a research assistant at the Mathematics and Computer Science Division at Argonne National Laboratory, where I was supervised by Dr. Mark Hereld and Dr. Nicola J. Ferrier.
 
 <!---
 Currently, my research interests lie broadly in systems and networking. During my undergraduate years, I focused primarily on building high-performing and resource-efficient networked systems for video analytics applications. 
