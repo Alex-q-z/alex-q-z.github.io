@@ -15,6 +15,8 @@ Currently, my research interests lie broadly in systems and networking. During m
 -->
 My primary research interest is in computer systems and networking. In particular, I’m interested in building systems for large-scale and distributed workloads & applications. My past research has focused on video encoding and streaming systems, multimedia streaming systems, etc. I have worked extensively with machine learning and computer vision workloads.
 
+More recently, I have been working on video encoding (with encoders like h264/h265 and VP8/9) to support video streaming under different network conditions.
+
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" (in public key encryption). I also go by Alex.
 
 <!---
@@ -102,7 +104,7 @@ Data Structures, Computer Systems, Operating Systems, Parallel Computing, Comput
 -->
 
 ### Mathematics and Statistics
-Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n I-II-III (Accelerated-track), Numerical Analysis, Stochastic Processes, Ordinary Differential Equations, Abstract Algebra I-II, Applied Regression Analysis, Mathematical Statistics and Probability Theory I-II, Causal Inference with Machine Learning
+Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n I-II-III (Accelerated-track), Numerical Analysis, Stochastic Processes, Abstract Algebra I-II, Applied Regression Analysis, Mathematical Statistics and Probability Theory I-II, Bayesian Data Analysis, Causal Inference, Mathematical Optimization
 
 <!---
 * MATH 16100-16200-16300 Honors Calculus I-II-III
