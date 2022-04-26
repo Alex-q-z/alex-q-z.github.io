@@ -34,7 +34,7 @@ I am currently applying to PhD programs in Computer Science that start in Fall 2
 _* indicates equivalent contribution_
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
-  **MLSys 2022 (to appear)**
+  **MLSys 2022**
   
 - Understanding the Potential of Server-Driven Edge Video Analytics [[paper]](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf)<br />
   **Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang<br />
