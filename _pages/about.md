@@ -32,7 +32,7 @@ I am currently applying to PhD programs in Computer Science that start in Fall 2
 
 ## Publications
 _* indicates equivalent contribution_
-- AccMPEG: Optimizing Video Encoding for Video Analytics<br />
+- AccMPEG: Optimizing Video Encoding for Video Analytics [[paper]](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf)<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
   **MLSys 2022**
   
