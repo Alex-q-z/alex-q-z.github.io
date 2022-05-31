@@ -27,11 +27,8 @@ I am currently applying to PhD programs in Computer Science that start in Fall 2
 
 ## Recent News
 **[Apr 2022]** I will be a PhD student in computer science at Stanford University starting this fall. Big thanks to everyone's help and advice along the way!<br />
-<br />
 **[Jan 2022]** The AccMPEG paper has been accepted and is to appear at **MLSys 2022**.<br />
-<br />
 **[Dec 2021]** The saliency paper has been accepted and is to appear at **HotMobile 2022**.<br />
-<br />
 **[May 2020]** The DDS paper has been accepted and is to appear at **SIGCOMM 2020**.<br />
 
 ## Publications
