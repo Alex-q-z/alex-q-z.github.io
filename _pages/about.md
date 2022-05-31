@@ -13,9 +13,11 @@ I am a senior undergraduate student studying computer science, mathematics and s
 <!---
 Currently, my research interests lie broadly in systems and networking. During my undergraduate years, I focused primarily on building high-performing and resource-efficient networked systems for video analytics applications. 
 -->
-My primary research interest is in computer systems and networking. In particular, I’m interested in building systems for large-scale and distributed workloads & applications. My past research has focused on video encoding and streaming systems, multimedia streaming systems, etc. I have worked extensively with machine learning and computer vision workloads.
+My primary research interest is in computer systems and networking. In particular, I’m interested in building systems for large-scale and distributed workloads & applications. My past research has focused on video encoding and streaming systems, AI analytics systems, etc. I have worked extensively with machine learning and computer vision workloads.
 
+<!---
 More recently, I have been working on video encoding (with encoders like h264/h265 and VP8/9) to support video streaming under different network conditions.
+-->
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" (in public key encryption). I also go by Alex.
 
@@ -23,12 +25,14 @@ The pronunciation of my first name (Qizheng) is very close to that of "keygen" (
 I am currently applying to PhD programs in Computer Science that start in Fall 2022.
 -->
 
-<!---
 ## Recent News
-**[May 2020]** Our DDS paper has been accepted and is to appear in **SIGCOMM 2020**.<br />
+**[Apr 2022]** I will be a PhD student in computer science at Stanford University starting this fall. Big thanks to everyone's help and advice along the way!<br />
 <br />
-**[Jun 2019]** This summer I'll be a student researcher at Argonne National Laboratory, working with Dr. Mark Hereld at the Mathematics and Computer Science (MCS) Division. I will be contributing to the project LightningBug: Mass Digitization of Pinned Insect Specimens.
--->
+**[Jan 2022]** The AccMPEG paper has been accepted and is to appear at **MLSys 2022**.<br />
+<br />
+**[Dec 2021]** The saliency paper has been accepted and is to appear at **HotMobile 2022**.<br />
+<br />
+**[May 2020]** The DDS paper has been accepted and is to appear at **SIGCOMM 2020**.<br />
 
 ## Publications
 _* indicates equivalent contribution_
@@ -45,11 +49,12 @@ _* indicates equivalent contribution_
   **SIGCOMM 2020**
 
 ## Honors and Awards
+* Magna Cum Laude, 2022
 * Phi Beta Kappa, 2021
 * Dean's Honor List, 2018-2020
 * Robert Maynard Hutchins Scholars, 2020
-* Soong Ching Ling Foundation Scholarship ($12500), 2020
-* Jeff Metcalf Summer Research Fellowship ($4000), 2019
+* Soong Ching Ling Foundation Scholarship, 2020
+* Jeff Metcalf Summer Research Fellowship, 2019
 
 <!---
 ## Research
