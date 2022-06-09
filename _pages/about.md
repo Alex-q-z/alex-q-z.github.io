@@ -47,6 +47,10 @@ _* indicates equivalent contribution_
 - Server-Driven Video Streaming for Deep Learning Inference [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)<br /> 
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
   **SIGCOMM 2020**
+  
+- DDS: Real-Time Analytics-Driven Video Streaming<br /> 
+  Kuntai Du\, Ahsan Pervaiz\, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
+  **NSDI 2020 Poster**
 
 ## Honors and Awards
 * Magna Cum Laude, 2022
