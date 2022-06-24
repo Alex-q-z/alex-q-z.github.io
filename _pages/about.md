@@ -40,7 +40,7 @@ _* indicates equivalent contribution_
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
   **MLSys 2022**
   
-- Understanding the Potential of Server-Driven Edge Video Analytics [[paper]](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf)<br />
+- Understanding the Potential of Server-Driven Edge Video Analytics [[paper]](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) [[slides]](https://alex-q-z.github.io/files/saliency_hotmobile22_slides.pdf)<br />
   **Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang<br />
   **ACM HotMobile 2022**
 
