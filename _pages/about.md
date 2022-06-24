@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student studying computer science, mathematics and statistics at the University of Chicago, where I'm fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali at Princeton University to work on video analytics. Previously, I have also interned as a research assistant at the Mathematics and Computer Science Division at Argonne National Laboratory, where I was supervised by Dr. Mark Hereld and Dr. Nicola J. Ferrier.
+I am an incoming computer science Ph.D. student at Stanford University, working with Prof. Keith Winstein. Previously, I obtained my bachelor's degree from the University of Chicago, where I am fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali at Princeton University to work on video analytics. I have also interned at Argonne National Laboratory, where I was supervised by Dr. Mark Hereld and Dr. Nicola J. Ferrier.
 
 <!---
 Currently, my research interests lie broadly in systems and networking. During my undergraduate years, I focused primarily on building high-performing and resource-efficient networked systems for video analytics applications. 
 -->
-My primary research interest is in computer systems and networking. In particular, I’m interested in building systems for large-scale and distributed workloads & applications. My past research has focused on video encoding and streaming systems, AI analytics systems, etc. I have worked extensively with machine learning and computer vision workloads.
+My primary research interest is in computer networking. In particular, I’m interested in building networked systems for large-scale and distributed workloads & applications. My past research has focused on video encoding and streaming systems, AI analytics systems, etc. I have worked extensively with machine learning and computer vision workloads. My recent research focuses a lot on video codecs.
 
 <!---
 More recently, I have been working on video encoding (with encoders like h264/h265 and VP8/9) to support video streaming under different network conditions.
