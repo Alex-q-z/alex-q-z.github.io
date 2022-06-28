@@ -42,11 +42,11 @@ _* indicates equivalent contribution_
   
 - Understanding the Potential of Server-Driven Edge Video Analytics [[paper]](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) [[slides]](https://alex-q-z.github.io/files/saliency_hotmobile22_slides.pdf)<br />
   **Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang<br />
-  **ACM HotMobile 2022**
+  **HotMobile 2022**
 
 - Server-Driven Video Streaming for Deep Learning Inference [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)<br /> 
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
-  **ACM SIGCOMM 2020**
+  **SIGCOMM 2020**
   
 <!---
 - DDS: Real-Time Analytics-Driven Video Streaming<br /> 
