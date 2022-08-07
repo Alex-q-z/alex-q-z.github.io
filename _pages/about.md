@@ -25,6 +25,7 @@ The pronunciation of my first name (Qizheng) is very close to that of "keygen" (
 I am currently applying to PhD programs in Computer Science that start in Fall 2022.
 -->
 
+<!---
 ## Recent News
 **[Apr 2022]** I will be a PhD student in computer science at Stanford University starting this fall. Big thanks to everyone's help and advice along the way!
 
@@ -33,6 +34,7 @@ I am currently applying to PhD programs in Computer Science that start in Fall 2
 **[Dec 2021]** The saliency paper has been accepted and is to appear at **HotMobile 2022**.
 
 **[May 2020]** The DDS paper has been accepted and is to appear at **SIGCOMM 2020**.
+-->
 
 ## Publications
 _* indicates equivalent contribution_
