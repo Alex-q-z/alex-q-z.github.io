@@ -8,22 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming computer science Ph.D. student at Stanford University, working with Prof. Keith Winstein. Previously, I obtained my bachelor's degree from the University of Chicago, where I am fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali at Princeton University to work on video analytics. I have also interned at Argonne National Laboratory, where I was supervised by Dr. Mark Hereld and Dr. Nicola J. Ferrier.
+I am a first-year CS PhD student at Stanford University, working with Prof. Keith Winstein. Previously, I obtained my bachelor's degree from the University of Chicago, where I am fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali at Princeton University to work on video analytics. I have also interned at Argonne National Laboratory, where I was supervised by Dr. Mark Hereld and Dr. Nicola J. Ferrier.
 
-<!---
-Currently, my research interests lie broadly in systems and networking. During my undergraduate years, I focused primarily on building high-performing and resource-efficient networked systems for video analytics applications. 
--->
-My primary research interest is in computer networking. In particular, I’m interested in building networked systems for large-scale and distributed workloads & applications. My past research has focused on video encoding and streaming systems, AI analytics systems, etc. I have worked extensively with machine learning and computer vision workloads. My recent research focuses a lot on video codecs.
-
-<!---
-More recently, I have been working on video encoding (with encoders like h264/h265 and VP8/9) to support video streaming under different network conditions.
--->
+My primary research interest is in computer systems and networking. In particular, I’m interested in building networked systems for large-scale and distributed workloads & applications. My past research has focused on video encoding and streaming systems, AI analytics systems, etc. I have worked extensively with machine learning and computer vision workloads. My recent research focuses a lot on video codecs.
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" (in public key encryption). I also go by Alex.
-
-<!---
-I am currently applying to PhD programs in Computer Science that start in Fall 2022.
--->
 
 <!---
 ## Recent News
@@ -40,21 +29,15 @@ I am currently applying to PhD programs in Computer Science that start in Fall 2
 _* indicates equivalent contribution_
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
-  **MLSys 2022** [[paper]](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) [[code]](https://github.com/KuntaiDu/AccMPEG)
+  *Conference on Machine Learning and Systems (MLSys 2022)* [[paper]](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) [[code]](https://github.com/KuntaiDu/AccMPEG)
   
 - Understanding the Potential of Server-Driven Edge Video Analytics<br />
   **Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang<br />
-  **HotMobile 2022** [[paper]](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) [[code]](https://github.com/Alex-q-z/saliency-based-feedback) [[slides]](https://alex-q-z.github.io/files/saliency_hotmobile22_slides.pdf) [[talk]](https://www.youtube.com/watch?v=xtSafM0VbTs)
+  *ACM Workshop on Mobile Computing Systems and Applications (HotMobile 2022)* [[paper]](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) [[code]](https://github.com/Alex-q-z/saliency-based-feedback) [[slides]](https://alex-q-z.github.io/files/saliency_hotmobile22_slides.pdf) [[talk]](https://www.youtube.com/watch?v=xtSafM0VbTs)
 
 - Server-Driven Video Streaming for Deep Learning Inference<br /> 
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
-  **SIGCOMM 2020** [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)
-  
-<!---
-- DDS: Real-Time Analytics-Driven Video Streaming<br /> 
-  Kuntai Du, Ahsan Pervaiz, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
-  **NSDI 2020 Poster**
--->
+  *ACM Special Interest Group on Data Communication (SIGCOMM 2020)* [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)
 
 ## Honors and Awards
 * Magna Cum Laude, 2022
@@ -106,7 +89,7 @@ Data Structures, Computer Systems, Operating Systems, Parallel Computing, Comput
 * CMSC 23010 Parallel Computing
 * CMSC 23200 Introduction to Computer Security
 * CMSC 23320 Foundations of Computer Networks
-* CMSC 23500 Introduction to Database Systems (IP)
+* CMSC 23500 Introduction to Database Systems
 * CMSC 25700 Natural Language Processing
 * CMSC 27100 Discrete Mathematics
 * CMSC 27200 Theory of Algorithms
@@ -117,7 +100,7 @@ Data Structures, Computer Systems, Operating Systems, Parallel Computing, Comput
 -->
 
 ### Mathematics and Statistics
-Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n I-II-III (Accelerated-track), Numerical Analysis, Stochastic Processes, Abstract Algebra I-II, Applied Regression Analysis, Mathematical Statistics and Probability Theory I-II, Bayesian Data Analysis, Causal Inference, Mathematical Optimization
+Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n I-II-III (accelerated-track), Numerical Analysis, Stochastic Processes, Abstract Algebra I-II, Applied Regression Analysis, Mathematical Statistics and Probability Theory I-II, Bayesian Data Analysis, Causal Inference, Mathematical Optimization
 
 <!---
 * MATH 16100-16200-16300 Honors Calculus I-II-III
@@ -126,12 +109,10 @@ Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysi
 * MATH 21100 Basic Numerical Analysis
 * MATH 23500 Markov Chains, Martingales, and Brownian Motion
 * MATH 25400-25500 Abstract Algebra I-II
-* MATH 27300 Basic Theory of Ordinary Differential Equations (IP)
 * STAT 22400 Applied Regression Analysis
 * STAT 24400-24500 Statistical Theory and Method I-II
-* STAT 24620 Multivariate Statistical Analysis (IP)
 * STAT 27420 Causal Inference with Machine Learning
-* STAT 28000 Mathematical Optimization (IP)
+* STAT 28000 Mathematical Optimization
 -->
 
 <!---
