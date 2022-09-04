@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Qizheng Zhang"
   avatar           : "personal_img3.JPG" #"personal_img2.jpeg"
-  bio              : "Undergraduate student at the University of Chicago. qizhengz [at] uchicago [dot] edu"
-  location         : "Chicago, IL"
+  bio              : "First-year CS PhD student at Stanford. qizhengz [at] stanford [dot] edu"
+  location         : "Stanford, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=EEgiCoQAAAAJ&hl=en
   email            : qizhengz@uchicago.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : https://twitter.com/asteroidqy
   vine             :
   weibo            :
   xing             :
