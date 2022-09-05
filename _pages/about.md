@@ -39,10 +39,6 @@ _* indicates equivalent contribution_
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
   *ACM Special Interest Group on Data Communication (SIGCOMM 2020)* [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)
 
-- DDS: Real-Time Analytics-Driven Video Streaming<br /> 
-  Kuntai Du, Ahsan Pervaiz, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
-  *USENIX Symposium on Networked Systems Design and Implementation (NSDI 2020) poster session*
-
 ## Honors and Awards
 * Magna Cum Laude, 2022
 * Phi Beta Kappa, 2021
