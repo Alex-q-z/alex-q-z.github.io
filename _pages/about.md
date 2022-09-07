@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year CS PhD student at Stanford University, working with Prof. Keith Winstein. Previously, I obtained my bachelor's degree from the University of Chicago, where I am fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali at Princeton University to work on video analytics. I have also interned at Argonne National Laboratory, where I was supervised by Dr. Mark Hereld and Dr. Nicola J. Ferrier.
 
-My primary research interest is in computer systems and networking. In particular, I’m interested in building networked systems for large-scale and distributed workloads & applications. My past research has focused on video encoding and streaming systems, AI analytics systems, etc. I have worked extensively with machine learning and computer vision workloads. My recent research focuses a lot on video codecs.
+My primary research interest is computer systems and networking. In particular, I’m interested in building high-performing and resource-efficient networked systems for emerging Internet applications. My past research has focused on video streaming and analytics systems, deep learning inference systems, etc. My recent research focuses a lot on video encoding.
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" (in public key encryption). I also go by Alex.
 
