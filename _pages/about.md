@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year PhD student in the Computer Science Department at Stanford University, working with Prof. Keith Winstein. Previously, I obtained my bachelor's degree from the University of Chicago, where I was fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali at Princeton University to work on video analytics. I have also interned at Argonne National Laboratory, where I was supervised by Dr. Mark Hereld and Dr. Nicola J. Ferrier.
 
-My primary research interest is computer systems and networking. In particular, I’m interested in building high-performing and resource-efficient networked systems for emerging Internet applications. My past research has focused on video streaming and analytics, deep learning inference systems, etc. My recent research focuses on (1) loss-tolerant video encoding (2) "predictive" and low-latency video/audio streaming.
+My research interest is broadly in networking, applied machine learning, systems, and security. In particular, I’m interested in building high-performing and resource-efficient networked systems for emerging Internet applications. My past research has focused on video streaming and analytics, deep learning inference systems, etc. My recent research focuses on (1) loss-tolerant video encoding (2) "predictive" and low-latency video/audio streaming.
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" (in public key encryption). I also go by Alex.
 
@@ -42,7 +42,7 @@ _* indicates equivalent contribution_
 ## Honors and Awards
 * Magna Cum Laude, 2022
 * Phi Beta Kappa, 2021
-* Dean's Honor List, 2018-2020
+* Dean's List, 2018-2022
 * Robert Maynard Hutchins Scholars, 2020
 * Soong Ching Ling Foundation Scholarship, 2020
 * Jeff Metcalf Summer Research Fellowship, 2019
@@ -61,11 +61,14 @@ Supervised by Dr. Mark Hereld (Argonne National Lab)
 ## Selected Projects
 -->
 
+<!---
 ## Skills
 * Programmming: C, C++, Python, Rust, Bash, SQL, Matlab, R
 * Technologies: Linux, Make, Git, Vim, Visual Studio, Wireshark, GDB, LaTeX
 
 ## Selected Coursework
+-->
+
 <!---
 The University of Chicago, September 2018 - June 2022 (expected)<br />
 B.S. in Mathematics, B.S. in Computer Science<br />
@@ -79,8 +82,10 @@ Selected Coursework<br />
 Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.<br />
 -->
 
+<!---
 ### Computer Science
 Data Structures, Computer Systems, Operating Systems, Parallel Computing, Computer Security, Computer Networks, Database Systems, Advanced Operating Systems (PhD class), Networks and Distributed Systems (PhD class), Machine Learning (PhD class), Computer Vision, Natural Language Processing, Discrete Mathematics, Algorithms, Cryptography
+-->
 
 <!---
 * CMSC 15100-15200 Introduction to Computer Science I-II
@@ -99,8 +104,10 @@ Data Structures, Computer Systems, Operating Systems, Parallel Computing, Comput
 * TTIC 31020 Introduction to Machine Learning (PhD class)
 -->
 
+<!---
 ### Mathematics and Statistics
 Proof-based Calculus and Multivariate Calculus, Abstract Linear Algebra, Analysis in R^n I-II-III (accelerated-track), Numerical Analysis, Stochastic Processes, Abstract Algebra I-II, Applied Regression Analysis, Mathematical Statistics and Probability Theory I-II, Bayesian Data Analysis, Causal Inference, Mathematical Optimization
+-->
 
 <!---
 * MATH 16100-16200-16300 Honors Calculus I-II-III
