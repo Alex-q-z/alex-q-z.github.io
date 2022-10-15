@@ -40,10 +40,10 @@ _* indicates equivalent contribution_
   *ACM Special Interest Group on Data Communication (SIGCOMM 2020)* [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)
 
 ## Honors and Awards
-* Magna Cum Laude, 2022
-* Phi Beta Kappa, 2021
-* Dean's List, 2018-2022
-* Robert Maynard Hutchins Scholars, 2020
+* Magna Cum Laude, *University of Chicago*, 2022
+* Phi Beta Kappa, *University of Chicago*, 2021
+* Dean's List, *University of Chicago*, 2018-2022
+* Robert Maynard Hutchins Scholars, *University of Chicago*, 2020
 * Soong Ching Ling Foundation Scholarship, 2020
 * Jeff Metcalf Summer Research Fellowship, 2019
 
