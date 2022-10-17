@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the Computer Science Department at Stanford University, working with Prof. Keith Winstein. Previously, I obtained my bachelor's degree from the University of Chicago, where I was fortunate to work with Prof. Junchen Jiang. Besides, I am fortunate to collaborate with Prof. Ravi Netravali at Princeton University to work on video analytics. I have also interned at Argonne National Laboratory, where I was supervised by Dr. Mark Hereld and Dr. Nicola J. Ferrier.
+I am a first-year CS Ph.D. student at Stanford University, working with Prof. Keith Winstein on the Stagecast project. 
 
-My research interest is broadly in networking, applied machine learning, systems, and security. In particular, I’m interested in building high-performing and resource-efficient networked systems for emerging Internet applications. My past research has focused on video streaming and analytics, deep learning inference systems, etc. My recent research focuses on (1) loss-tolerant video encoding (2) "predictive" and low-latency video/audio streaming.
+Previously, I obtained my bachelor's degree from the University of Chicago. During my undergraduate years, I have been fortunate to work with Prof. Junchen Jiang and Prof. Ravi Netravali on video streaming and analytics. I have also interned at Argonne National Laboratory, where I was supervised by Dr. Mark Hereld and Dr. Nicola J. Ferrier.
 
-The pronunciation of my first name (Qizheng) is very close to that of "keygen" (in public key encryption). I also go by Alex.
+My research interest is broadly in networking, applied machine learning, systems, and security. My past research has focused on video streaming and analytics, deep learning inference systems, etc. My recent research focuses on (1) loss-tolerant video encoding (2) "predictive" and low-latency video/audio streaming. For more details, see my [[CV]](https://alex-q-z.github.io/files/qizhengz_CV.pdf).
+
+The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
+
+<!---
+In particular, I’m interested in building high-performing and resource-efficient networked systems for emerging Internet applications.
+-->
 
 <!---
 ## Recent News
