@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS Ph.D. student at Stanford University, working with Prof. Keith Winstein on the Stagecast project. Here is my [CV](https://alex-q-z.github.io/files/qizhengz_CV.pdf).
+I am a first-year CS Ph.D. student at Stanford University, working with Prof. Keith Winstein on the Stagecast project. 
+
+<!---
+Here is my [CV](https://alex-q-z.github.io/files/qizhengz_CV.pdf).
+-->
 
 Previously, I obtained my bachelor's degree from the University of Chicago. During my undergraduate years, I have been fortunate to work with Prof. Junchen Jiang and Prof. Ravi Netravali on video streaming and analytics. I have also interned at the Mathematics and Computer Science Division at Argonne National Laboratory.
 
