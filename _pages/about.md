@@ -8,28 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS Ph.D. student at Stanford University, working with Prof. Keith Winstein. Here is my [CV](https://alex-q-z.github.io/files/qizhengz_CV.pdf).
+I am a first-year CS Ph.D. student at Stanford University. As part of the rotation program, I have been working with Prof. Keith Winstein and Prof. Kayvon Fatahalian. Here is my [CV](https://alex-q-z.github.io/files/qizhengz_CV.pdf).
 
 Previously, I obtained my bachelor's degree from the University of Chicago. During my undergraduate years, I have been fortunate to work with Prof. Junchen Jiang and Prof. Ravi Netravali on video streaming and analytics. I have also interned at the Mathematics and Computer Science Division at Argonne National Laboratory.
 
-My research interest is broadly in networking, applied machine learning, systems, and security. My past research has focused on video streaming and analytics, deep learning inference systems, etc. My recent research focuses on (1) loss-tolerant video encoding (2) "predictive" and low-latency video/audio streaming.
+My research interest is broadly in networking, systems. and applied machine learning. My past research has focused on video streaming and analytics, deep learning inference systems, etc. My recent research focuses on (1) loss-tolerant video encoding (2) "predictive" and low-latency video/audio streaming.
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
-
-<!---
-In particular, I’m interested in building high-performing and resource-efficient networked systems for emerging Internet applications.
--->
-
-<!---
-## Recent News
-**[Apr 2022]** I will be a PhD student in computer science at Stanford University starting this fall. Big thanks to everyone's help and advice along the way!
-
-**[Jan 2022]** The AccMPEG paper has been accepted and is to appear at **MLSys 2022**.
-
-**[Dec 2021]** The saliency paper has been accepted and is to appear at **HotMobile 2022**.
-
-**[May 2020]** The DDS paper has been accepted and is to appear at **SIGCOMM 2020**.
--->
 
 ## Publications
 _* indicates equivalent contribution_
@@ -45,6 +30,7 @@ _* indicates equivalent contribution_
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
   *ACM Special Interest Group on Data Communication (SIGCOMM), 2020* [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)
 
+<!---
 ## Honors and Awards
 * Magna Cum Laude, *University of Chicago*, 2022
 * Phi Beta Kappa, *University of Chicago*, 2021
@@ -52,27 +38,6 @@ _* indicates equivalent contribution_
 * Robert Maynard Hutchins Scholars, *University of Chicago*, 2020
 * Soong Ching Ling Foundation Scholarship, 2020
 * Jeff Metcalf Summer Research Fellowship, 2019
-
-<!---
-## Research
-- Video Analytics (June 2020 - Present)<br />
-with Kuntai Du and Anton Arapin, Supervised by Prof. Junchen Jiang
-- An Iterative Streaming Pipeline for Video Analytics (Autumn 2019 - June 2020)<br />
-with Kuntai Du, Prof. Junchen Jiang
-- 3D Image Reconstruction (June 2019 - August 2019)<br />
-Supervised by Dr. Mark Hereld (Argonne National Lab)
--->
-
-<!---
-## Selected Projects
--->
-
-<!---
-## Skills
-* Programmming: C, C++, Python, Rust, Bash, SQL, Matlab, R
-* Technologies: Linux, Make, Git, Vim, Visual Studio, Wireshark, GDB, LaTeX
-
-## Selected Coursework
 -->
 
 <!---
@@ -82,10 +47,6 @@ B.S. in Mathematics, B.S. in Computer Science<br />
 Selected Coursework<br />
 - Mathematics: Proof-based Calculus and Multivariate Calculus (Honors), Abstract Linear Algebra, Analysis in R^n I-II-III (accelerated track), Numerical Analysis, Markov Chains and Brownian Motions, Abstract Algebra I-II, Applied Regression Analysis, Statistical and Probability Theory I-II
 - Computer Science: Data Structures, Functional Programming, Introduction to Computer Systems, Operating Systems, Computer Networks, Computer Security, Parallel Computing, Graduate Operating Systems, Graduate Machine Learning, Natural Language Processing, Discrete Mathematics, Algorithms
--->
-
-<!---
-Besides research, I really enjoy my coursework in computer science. For my introductory functional programming class, I've developed a fully functional Go game with ~2500 lines of Typed Racket code. For my networks class, I've implemented an IRC (Internet Relay Chat) server, the TCP infrastrature, and a simple IP router. For my parallel programming class, I've implemented a parallelized data packet processor that allows work balancing with the use of a variety of locks like the TASLock, the Anderson Queue Lock, etc. I have also taken a number of courses in mathematics, statistics, and physics.<br />
 -->
 
 <!---
