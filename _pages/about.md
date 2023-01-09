@@ -12,7 +12,7 @@ I am a first-year CS Ph.D. student at Stanford University. As part of the rotati
 
 Previously, I obtained my bachelor's degree from the University of Chicago. During my undergraduate years, I have been fortunate to work with Prof. Junchen Jiang and Prof. Ravi Netravali on video streaming and analytics. I have also interned at the Mathematics and Computer Science Division at Argonne National Laboratory.
 
-My research interest is broadly in networking, systems. and applied machine learning. My past research has focused on video streaming and analytics, deep learning inference systems, etc. My recent research focuses on (1) loss-tolerant video encoding (2) "predictive" and low-latency video/audio streaming.
+My research interest is broadly in networking, systems, and applied machine learning. My past research has focused on video streaming and analytics, deep learning inference systems, etc. My recent research focuses on (1) loss-tolerant video encoding (2) "predictive" and low-latency video/audio streaming.
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
