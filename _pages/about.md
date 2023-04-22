@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS Ph.D. student at Stanford University. As part of the rotation program, I have been working with Prof. Keith Winstein and Prof. Kayvon Fatahalian. Here is my [CV](https://alex-q-z.github.io/files/qizhengz_CV.pdf).
+I am a first-year CS Ph.D. student at Stanford University. As part of the rotation program, I have been working with Prof. Keith Winstein and Prof. Kayvon Fatahalian. My research interest is broadly in networking, systems, and applied machine learning. Here is my [CV](https://alex-q-z.github.io/files/qizhengz_CV.pdf).
 
 Previously, I obtained my bachelor's degree from the University of Chicago. During my undergraduate years, I have been fortunate to work with Prof. Junchen Jiang and Prof. Ravi Netravali on video streaming and analytics. I have also interned at the Mathematics and Computer Science Division at Argonne National Laboratory.
 
-My research interest is broadly in networking, systems, and applied machine learning. My past research has focused on video streaming and analytics, deep learning inference systems, etc. My recent research focuses on (1) loss-tolerant video encoding (2) "predictive" and low-latency video/audio streaming.
+<!---
+My past research has focused on video streaming and analytics, deep learning inference systems, etc. My recent research focuses on (1) loss-tolerant video encoding (2) "predictive" and low-latency video/audio streaming.
+-->
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
@@ -24,11 +26,11 @@ _* indicates equivalent contribution_
   
 - Understanding the Potential of Server-Driven Edge Video Analytics<br />
   **Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang<br />
-  HotMobile 2022 [[paper]](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) [[code]](https://github.com/Alex-q-z/saliency-based-feedback) [[slides]](https://alex-q-z.github.io/files/saliency_hotmobile22_slides.pdf) [[talk]](https://www.youtube.com/watch?v=xtSafM0VbTs)
+  ACM HotMobile 2022 [[paper]](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) [[code]](https://github.com/Alex-q-z/saliency-based-feedback) [[slides]](https://alex-q-z.github.io/files/saliency_hotmobile22_slides.pdf) [[talk]](https://www.youtube.com/watch?v=xtSafM0VbTs)
 
 - Server-Driven Video Streaming for Deep Learning Inference<br /> 
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
-  SIGCOMM 2020 [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)
+  ACM SIGCOMM 2020 [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)
 
 <!---
 ## Honors and Awards
