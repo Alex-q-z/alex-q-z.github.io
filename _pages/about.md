@@ -20,7 +20,7 @@ Last updated: March 2023
 _* indicates equivalent contribution_
 - Optimizing Real-Time Video Experience with Data Scalable Codec<br />
   Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
-  ACM SIGCOMM EMS Workshop 2023
+  ACM SIGCOMM 2023 Workshop on Emerging Multimedia Systems 
 
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
