@@ -86,8 +86,8 @@ author:
   location         : "Stanford, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?user=EEgiCoQAAAAJ&hl=en
-  email            : qizhengz@uchicago.edu
+  googlescholar    : https://scholar.google.com/citations?user=xnt6d5oAAAAJ&hl=en
+  email            : qizhengz@stanford.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : asteroidqy
+  twitter          : qizhengz_alex
   vine             :
   weibo            :
   xing             :
