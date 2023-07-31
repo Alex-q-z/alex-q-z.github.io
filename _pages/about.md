@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising 2nd-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. I am currently working on developing programmable infrastructure for in-network machine learning as part of the Stanford Pervasive Parallelism Lab. My research interest is broadly in systems, networking, and applied machine learning. In addition, I have also had the privilege to work with:
+I am a rising second-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. I am currently working on developing programmable infrastructure for in-network machine learning as part of the Stanford Pervasive Parallelism Lab. My research interest is broadly in systems, networking, and applied machine learning. In addition, I have also had the privilege to work with:
 - Prof. Keith Winstein, on the Stanford Stagecast project
 - Prof. Kayvon Fatahalian, on human-centered virtual communication
 - Prof. Muhammad Shahbaz, on infrastructure for in-network machine learning
@@ -21,6 +21,10 @@ Last updated: July 2023
 
 ## Publications
 _* indicates equivalent contribution_
+- Optimizing Real-Time Video Experience with Data Scalable Codec<br />
+  Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
+  ACM SIGCOMM 2023 Workshop on Emerging Multimedia Systems
+
 - GRACE: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder<br />
   Yihua Cheng, Anton Arapin, Ziyi Zhang, **Qizheng Zhang**, Hanchen Li, Nick Feamster, Junchen Jiang<br />
   Preprint [[paper]](https://arxiv.org/abs/2210.16639)
