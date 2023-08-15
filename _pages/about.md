@@ -8,26 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising second-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. I am currently working on developing programmable infrastructure for in-network machine learning as part of the Stanford Pervasive Parallelism Lab. My research interest is broadly in systems, networking, and applied machine learning. In addition, I have also had the privilege to work with:
+I am a second-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. My research interest is broadly in computer networks, distributed systems, computer architecture, and machine learning. In addition, I have also had the privilege to work with:
 - Prof. Keith Winstein, on the Stanford Stagecast project
 - Prof. Kayvon Fatahalian, on human-centered virtual communication
-- Prof. Muhammad Shahbaz, on infrastructure for in-network machine learning
+- Prof. Muhammad Shahbaz, on infrastructure for ML in the data plane
 
 Previously, I obtained my bachelor's degree from the University of Chicago, with a triple major in computer science, statistics, and mathematics. During my undergraduate years, I have been fortunate to work with Prof. Junchen Jiang and Prof. Ravi Netravali on video streaming and analytics. I have also interned at the Mathematics and Computer Science Division at Argonne National Laboratory.
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: July 2023
+Last updated: August 2023
 
 ## Publications
 _* indicates equivalent contribution_
 - Optimizing Real-Time Video Experience with Data Scalable Codec<br />
   Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
   ACM SIGCOMM 2023 Workshop on Emerging Multimedia Systems
-
-- GRACE: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder<br />
-  Yihua Cheng, Anton Arapin, Ziyi Zhang, **Qizheng Zhang**, Hanchen Li, Nick Feamster, Junchen Jiang<br />
-  Preprint [[paper]](https://arxiv.org/abs/2210.16639)
 
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
