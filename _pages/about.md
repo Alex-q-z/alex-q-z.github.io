@@ -21,10 +21,6 @@ Last updated: August 2023
 
 ## Publications
 _* indicates equivalent contribution_
-- Optimizing Real-Time Video Experience with Data Scalable Codec<br />
-  Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
-  ACM SIGCOMM 2023 Workshop on Emerging Multimedia Systems
-
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
   MLSys 2022 [[paper]](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) [[code]](https://github.com/KuntaiDu/AccMPEG)
