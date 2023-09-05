@@ -21,6 +21,14 @@ Last updated: August 2023
 
 ## Publications
 _* indicates equivalent contribution_
+- Kuntai Du, Yuhan Liu, Yitian Hao, **Qizheng Zhang**, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang<br />
+  OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation<br />
+  ACM SoCC 2023 (to appear)
+
+- Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
+  Optimizing Real-Time Video Experience with Data Scalable Codec<br />
+  ACM SIGCOMM EMS Workshop 2023 (to appear)
+
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
   MLSys 2022 [[paper]](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) [[code]](https://github.com/KuntaiDu/AccMPEG)
