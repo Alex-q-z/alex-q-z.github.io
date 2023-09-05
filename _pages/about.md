@@ -21,12 +21,12 @@ Last updated: August 2023
 
 ## Publications
 _* indicates equivalent contribution_
-- Kuntai Du, Yuhan Liu, Yitian Hao, **Qizheng Zhang**, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang<br />
-  OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation<br />
+- OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation<br />
+  Kuntai Du, Yuhan Liu, Yitian Hao, **Qizheng Zhang**, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang<br />
   ACM SoCC 2023 (to appear)
 
-- Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
-  Optimizing Real-Time Video Experience with Data Scalable Codec<br />
+- Optimizing Real-Time Video Experience with Data Scalable Codec<br />
+  Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
   ACM SIGCOMM EMS Workshop 2023 (to appear)
 
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
