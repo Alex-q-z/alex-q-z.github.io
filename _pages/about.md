@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. My research interest is broadly in computer networks, distributed systems, computer architecture, and machine learning. In addition, I have also had the privilege to work with:
+I am a second-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. My research interest is broadly in computer networks, distributed systems, and machine learning. In addition, I have also had the privilege to work with:
 - Prof. Keith Winstein, on the Stanford Stagecast project
 - Prof. Kayvon Fatahalian, on human-centered virtual communication
 - Prof. Muhammad Shahbaz, on infrastructure for ML in the data plane
@@ -17,7 +17,7 @@ Previously, I obtained my bachelor's degree from the University of Chicago, with
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: August 2023
+Last updated: September 2023
 
 ## Publications
 _* indicates equivalent contribution_
@@ -27,7 +27,7 @@ _* indicates equivalent contribution_
 
 - Optimizing Real-Time Video Experience with Data Scalable Codec<br />
   Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
-  ACM SIGCOMM EMS Workshop 2023 (to appear)
+  ACM SIGCOMM EMS Workshop 2023 [[paper]](https://alex-q-z.github.io/files/autoencoder-ems23.pdf)
 
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
