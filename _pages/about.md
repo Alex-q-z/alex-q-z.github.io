@@ -20,7 +20,7 @@ The pronunciation of my first name (Qizheng) is very close to that of "keygen" i
 Last updated: October 2023
 
 ## Publications
-_* indicates equivalent contribution
+_* indicates equivalent contribution_
 - OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation<br />
   Kuntai Du, Yuhan Liu, Yitian Hao, **Qizheng Zhang**, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang<br />
   ACM SoCC 2023 [[paper]](https://alex-q-z.github.io/files/oneadapt-socc23.pdf)
