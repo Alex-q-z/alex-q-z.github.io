@@ -17,10 +17,14 @@ Previously, I obtained my bachelor's degree from the University of Chicago, with
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: October 2023
+Last updated: December 2023
 
 ## Publications
 _* indicates equivalent contribution_
+- GRACE: Loss-Resilient Real-Time Video through Neural Codecs<br />
+  Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yuhan Liu, **Qizheng Zhang**, Xu Zhang, Kuntai Du, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
+  NSDI 2024
+  
 - OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation<br />
   Kuntai Du, Yuhan Liu, Yitian Hao, **Qizheng Zhang**, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang<br />
   ACM SoCC 2023 [[paper]](https://alex-q-z.github.io/files/oneadapt-socc23.pdf)
