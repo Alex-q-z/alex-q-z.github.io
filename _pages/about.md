@@ -23,15 +23,15 @@ Last updated: December 2023
 _* indicates equivalent contribution_
 - GRACE: Loss-Resilient Real-Time Video through Neural Codecs<br />
   Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yuhan Liu, **Qizheng Zhang**, Xu Zhang, Kuntai Du, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
-  NSDI 2024
+  NSDI 2024 [[paper]](https://arxiv.org/abs/2305.12333)
   
 - OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation<br />
   Kuntai Du, Yuhan Liu, Yitian Hao, **Qizheng Zhang**, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang<br />
-  ACM SoCC 2023 [[paper]](https://alex-q-z.github.io/files/oneadapt-socc23.pdf)
+  SoCC 2023 [[paper]](https://alex-q-z.github.io/files/oneadapt-socc23.pdf)
 
 - Optimizing Real-Time Video Experience with Data Scalable Codec<br />
   Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
-  ACM SIGCOMM EMS Workshop 2023 [[paper]](https://alex-q-z.github.io/files/autoencoder-ems23.pdf)
+  SIGCOMM EMS Workshop 2023 [[paper]](https://alex-q-z.github.io/files/autoencoder-ems23.pdf)
 
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
@@ -39,11 +39,11 @@ _* indicates equivalent contribution_
   
 - Understanding the Potential of Server-Driven Edge Video Analytics<br />
   **Qizheng Zhang**, Kuntai Du, Neil Agarwal, Ravi Netravali, Junchen Jiang<br />
-  ACM HotMobile 2022 [[paper]](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) [[code]](https://github.com/Alex-q-z/saliency-based-feedback) [[slides]](https://alex-q-z.github.io/files/saliency_hotmobile22_slides.pdf) [[talk]](https://www.youtube.com/watch?v=xtSafM0VbTs)
+  HotMobile 2022 [[paper]](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) [[code]](https://github.com/Alex-q-z/saliency-based-feedback) [[slides]](https://alex-q-z.github.io/files/saliency_hotmobile22_slides.pdf) [[talk]](https://www.youtube.com/watch?v=xtSafM0VbTs)
 
 - Server-Driven Video Streaming for Deep Learning Inference<br /> 
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
-  ACM SIGCOMM 2020 [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)
+  SIGCOMM 2020 [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)
 
 <!---
 ## Honors and Awards
