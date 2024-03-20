@@ -8,26 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. My research interest is broadly in computer networks, distributed systems, and machine learning. In addition, I have also had the privilege to work with:
-- Prof. Keith Winstein, on the Stanford Stagecast project
-- Prof. Kayvon Fatahalian, on human-centered virtual communication
-- Prof. Muhammad Shahbaz, on infrastructure for ML in the data plane
+I am a second-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. My research interest is broadly in computer networks, distributed systems, computer architecture, and machine learning. 
 
 Previously, I obtained my bachelor's degree from the University of Chicago, with a triple major in computer science, statistics, and mathematics. During my undergraduate years, I have been fortunate to work with Prof. Junchen Jiang and Prof. Ravi Netravali on video streaming and analytics. I have also interned at the Mathematics and Computer Science Division at Argonne National Laboratory.
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: December 2023
+Last updated: March 2023
 
 ## Publications
 _* indicates equivalent contribution_
+- CacheGen: Fast Context Loading for Language Model Applications via KV Cache Streaming<br />
+  Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, **Qizheng Zhang**, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang<br />
+  Preprint [[paper]](https://arxiv.org/abs/2310.07240)
+
+- The Dataflow Abstract Machine Simulator Framework<br />
+  Nathan Zhang, Rubens Lacouture, Gina Sohn, Paul Mure, **Qizheng Zhang**, Fredrik Kjolstad, Kunle Olukotun<br />
+  ISCA 2024 (to appear)
+  
 - GRACE: Loss-Resilient Real-Time Video through Neural Codecs<br />
-  Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yuhan Liu, **Qizheng Zhang**, Xu Zhang, Kuntai Du, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
-  NSDI 2024 [[paper]](https://arxiv.org/abs/2305.12333)
+  Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yue Zhang, **Qizheng Zhang**, Yuhan Liu, Kuntai Du, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
+  NSDI 2024 (to appear) [[paper]](https://arxiv.org/abs/2305.12333)
   
 - OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation<br />
   Kuntai Du, Yuhan Liu, Yitian Hao, **Qizheng Zhang**, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang<br />
-  SoCC 2023 [[paper]](https://alex-q-z.github.io/files/oneadapt-socc23.pdf)
+  SoCC 2023 [[paper]](https://alex-q-z.github.io/files/oneadapt-socc23.pdf) [[code]](https://github.com/KuntaiDu/OneAdapt)
 
 - Optimizing Real-Time Video Experience with Data Scalable Codec<br />
   Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
