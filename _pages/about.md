@@ -22,6 +22,10 @@ _* indicates equivalent contribution_
   Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, **Qizheng Zhang**, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang<br />
   Preprint [[paper]](https://arxiv.org/abs/2310.07240)
 
+- Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents<br />
+  **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Muhammad Shahbaz, Kunle Olukotun<br />
+  OSDI 2024 (to appear)
+
 - The Dataflow Abstract Machine Simulator Framework<br />
   Nathan Zhang, Rubens Lacouture, Gina Sohn, Paul Mure, **Qizheng Zhang**, Fredrik Kjolstad, Kunle Olukotun<br />
   ISCA 2024 (to appear)
