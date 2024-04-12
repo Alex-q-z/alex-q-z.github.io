@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. My research interest is broadly in computer networks, distributed systems, computer architecture, and machine learning. 
+I am a second-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. My research interest is broadly in computer networks, distributed systems, and machine learning. 
 
 Previously, I obtained my bachelor's degree from the University of Chicago, with a triple major in computer science, statistics, and mathematics. During my undergraduate years, I have been fortunate to work with Prof. Junchen Jiang and Prof. Ravi Netravali on video streaming and analytics. I have also interned at the Mathematics and Computer Science Division at Argonne National Laboratory.
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: March 2023
+Last updated: April 2023
+
+## You might be looking for...
+
+For Spring 2024, the course webpage for CS 244 (Advanced Topics in Networking) is [here](https://web.stanford.edu/class/cs244/). You might also want to check out [Ed](https://edstem.org/us/courses/57879/discussion/). Feel free to e-mail me or make an Ed post if you would like to chat.
+- For reading critiques, please send to cs244-spr2324-submit@lists.stanford.edu.
+- For project proposals and reports, please send to cs244-spr2324-staff@lists.stanford.edu. If you are looking for ideas on what paper to replicate for the course project, it could be very helpful if you check out [this paper](https://dl.acm.org/doi/abs/10.1145/3089262.3089266) as it discussed what prior cohorts of CS 244 students did for their projects.
+
+For Spring 2024, the Stanford systems reading group is Tuesday every week 3 - 4 pm at Gates 415. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
 
 ## Publications
 _* indicates equivalent contribution_
