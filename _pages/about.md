@@ -14,24 +14,24 @@ Previously, I obtained my bachelor's degree from the University of Chicago, with
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: April 2023
+Last updated: May 2023
 
 ## You might be looking for...
 
-For Spring 2024, the course webpage for CS 244 (Advanced Topics in Networking) is [here](https://web.stanford.edu/class/cs244/). You might also want to check out [Ed](https://edstem.org/us/courses/57879/discussion/). Feel free to e-mail me or make an Ed post if you would like to chat.
+For Spring 2024, the course webpage for CS 244 (Advanced Topics in Networking) is [here](https://web.stanford.edu/class/cs244/). You might also want to check out [Ed](https://edstem.org/us/courses/57879/discussion/).
 - For reading critiques, please send to cs244-spr2324-submit@lists.stanford.edu.
-- For project proposals and reports, please send to cs244-spr2324-staff@lists.stanford.edu. If you are looking for ideas on what paper to replicate for the course project, it could be very helpful if you check out [this paper](https://dl.acm.org/doi/abs/10.1145/3089262.3089266) as it discussed what prior cohorts of CS 244 students did for their projects.
+- For project proposals and reports, please send to cs244-spr2324-staff@lists.stanford.edu.
 
 For Spring 2024, the Stanford systems reading group is Tuesday every week 3 - 4 pm at Gates 415. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
 
 ## Publications
 _* indicates equivalent contribution_
-- CacheGen: Fast Context Loading for Language Model Applications via KV Cache Streaming<br />
+- CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving<br />
   Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, **Qizheng Zhang**, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang<br />
-  Preprint [[paper]](https://arxiv.org/abs/2310.07240)
+  SIGCOMM 2024 (to appear) [[preprint]](https://arxiv.org/abs/2310.07240) [[code]](https://github.com/uchi-jcl/cachegen)
 
 - Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents<br />
-  **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Muhammad Shahbaz, Kunle Olukotun<br />
+  **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Nathan Zhang, Muhammad Shahbaz, Kunle Olukotun<br />
   OSDI 2024 (to appear)
 
 - The Dataflow Abstract Machine Simulator Framework<br />
@@ -40,7 +40,7 @@ _* indicates equivalent contribution_
   
 - GRACE: Loss-Resilient Real-Time Video through Neural Codecs<br />
   Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yue Zhang, **Qizheng Zhang**, Yuhan Liu, Kuntai Du, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
-  NSDI 2024 (to appear) [[paper]](https://arxiv.org/abs/2305.12333)
+  NSDI 2024 [[website]](https://uchi-jcl.github.io/grace.html) [[paper]](https://www.usenix.org/system/files/nsdi24-cheng.pdf) [[code]](https://github.com/UChi-JCL/Grace)
   
 - OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation<br />
   Kuntai Du, Yuhan Liu, Yitian Hao, **Qizheng Zhang**, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang<br />
