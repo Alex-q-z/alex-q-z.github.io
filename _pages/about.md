@@ -18,13 +18,15 @@ Last updated: May 2023
 
 ## You might be looking for...
 
+Personal SF bay area boba/dining map: See [here](https://www.google.com/maps/d/u/0/edit?mid=1IePP2h7zoIItNHsD3XqoUHR783AmUMw) (under construction).
+
 For Spring 2024, the course webpage for CS 244 (Advanced Topics in Networking) is [here](https://web.stanford.edu/class/cs244/). You might also want to check out [Ed](https://edstem.org/us/courses/57879/discussion/).
 - For reading critiques, please send to cs244-spr2324-submit@lists.stanford.edu.
 - For project proposals and reports, please send to cs244-spr2324-staff@lists.stanford.edu.
 
 For Spring 2024, the Stanford systems reading group is Tuesday every week 3 - 4 pm at Gates 415. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
 
-## Publications
+## Research
 _* indicates equivalent contribution_
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving<br />
   Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, **Qizheng Zhang**, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang<br />
@@ -61,6 +63,20 @@ _* indicates equivalent contribution_
 - Server-Driven Video Streaming for Deep Learning Inference<br /> 
   Kuntai Du\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, **Qizheng Zhang**, Henry Hoffmann, Junchen Jiang<br />
   SIGCOMM 2020 [[paper]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) [[code]](https://github.com/KuntaiDu/dds)
+
+## Teaching
+- Stanford CS 244: Advanced Topics in Networking<br />
+  Course Assistant, Spring 2024
+
+- UChicago CMSC 23000: Operating Systems<br />
+  Course Assistant, Autumn 2021
+
+## Service
+- Reviewer: NeurIPS 2024
+
+- Artifact Evaluation Committee: MLSys 2023, OSDI 2023, ATC 2023
+
+- Stanford Computer Science Student Applicant Support Program: 2022, 2023
 
 <!---
 ## Honors and Awards
