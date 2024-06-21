@@ -8,26 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Ph.D. student at Stanford University, advised by Prof. Kunle Olukotun. My research interest is broadly in computer networks, distributed systems, and machine learning. 
+I am a second-year CS Ph.D. student at Stanford University. My research interest is computer networks, distributed systems, and machine learning. My advisor is Kunle Olukotun.
 
-Previously, I obtained my bachelor's degree from the University of Chicago, with a triple major in computer science, statistics, and mathematics. During my undergraduate years, I have been fortunate to work with Prof. Junchen Jiang and Prof. Ravi Netravali on video streaming and analytics. I have also interned at the Mathematics and Computer Science Division at Argonne National Laboratory.
+Previously, I obtained my bachelor's degree from the University of Chicago, with three majors in mathematics, computer science, and statistics. During my undergraduate years, I was fortunate to work with Junchen Jiang and Ravi Netravali on video streaming and analytics. 
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: May 2023
+Last updated: June 2023
 
 ## You might be looking for...
 
 Personal SF bay area boba/dining map: See [here](https://www.google.com/maps/d/u/0/edit?mid=1IePP2h7zoIItNHsD3XqoUHR783AmUMw) (under construction).
 
-For Spring 2024, the course webpage for CS 244 (Advanced Topics in Networking) is [here](https://web.stanford.edu/class/cs244/). You might also want to check out [Ed](https://edstem.org/us/courses/57879/discussion/).
-- For reading critiques, please send to cs244-spr2324-submit@lists.stanford.edu.
-- For project proposals and reports, please send to cs244-spr2324-staff@lists.stanford.edu.
-
-For Spring 2024, the Stanford systems reading group is Tuesday every week 3 - 4 pm at Gates 415. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
+For Summer 2024, the Stanford systems reading group is Tuesday every week 3 - 4 pm at Gates 415. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
 
 ## Research
 _* indicates equivalent contribution_
+- CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion<br />
+  Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, **Qizheng Zhang**, Kuntai Du, Shan Lu, Junchen Jiang<br />
+  arXiv [[preprint]](https://arxiv.org/abs/2405.16444) [[code]](https://github.com/YaoJiayi/CacheBlend)
+  
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving<br />
   Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, **Qizheng Zhang**, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang<br />
   SIGCOMM 2024 (to appear) [[preprint]](https://arxiv.org/abs/2310.07240) [[code]](https://github.com/uchi-jcl/cachegen)
@@ -38,7 +38,7 @@ _* indicates equivalent contribution_
 
 - The Dataflow Abstract Machine Simulator Framework<br />
   Nathan Zhang, Rubens Lacouture, Gina Sohn, Paul Mure, **Qizheng Zhang**, Fredrik Kjolstad, Kunle Olukotun<br />
-  ISCA 2024 (to appear)
+  ISCA 2024 (to appear) [[code]](https://github.com/stanford-ppl/DAM-RS)
   
 - GRACE: Loss-Resilient Real-Time Video through Neural Codecs<br />
   Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yue Zhang, **Qizheng Zhang**, Yuhan Liu, Kuntai Du, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
@@ -73,17 +73,5 @@ _* indicates equivalent contribution_
 
 ## Service
 - Reviewer: NeurIPS 2024
-
 - Artifact Evaluation Committee: MLSys 2023, OSDI 2023, ATC 2023
-
 - Stanford Computer Science Student Applicant Support Program: 2022, 2023
-
-<!---
-## Honors and Awards
-* Magna Cum Laude, *University of Chicago*, 2022
-* Phi Beta Kappa, *University of Chicago*, 2021
-* Dean's List, *University of Chicago*, 2018-2022
-* Robert Maynard Hutchins Scholars, *University of Chicago*, 2020
-* Soong Ching Ling Foundation Scholarship, 2020
-* Jeff Metcalf Summer Research Fellowship, 2019
--->
