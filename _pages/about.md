@@ -34,11 +34,12 @@ _* indicates equivalent contribution_
 
 - Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents<br />
   **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Nathan Zhang, Muhammad Shahbaz, Kunle Olukotun<br />
-  OSDI 2024 (to appear)
+  OSDI 2024 [website] [[paper]](https://www.usenix.org/system/files/osdi24-zhang-qizheng.pdf) [code] [slides] [talk]
 
 - The Dataflow Abstract Machine Simulator Framework<br />
   Nathan Zhang, Rubens Lacouture, Gina Sohn, Paul Mure, **Qizheng Zhang**, Fredrik Kjolstad, Kunle Olukotun<br />
-  ISCA 2024 (to appear) [[code]](https://github.com/stanford-ppl/DAM-RS)
+  ISCA 2024 [[paper]](https://alex-q-z.github.io/files/dam-isca24.pdf) [[code]](https://github.com/stanford-ppl/DAM-RS)<br />
+  <span style="color: #0096FE; font-weight: bold;">ISCA Distinguished Artifact Award</span>
   
 - GRACE: Loss-Resilient Real-Time Video through Neural Codecs<br />
   Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yue Zhang, **Qizheng Zhang**, Yuhan Liu, Kuntai Du, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
