@@ -14,7 +14,7 @@ Previously, I obtained my bachelor's degree from the University of Chicago, with
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: June 2023
+Last updated: July 2024
 
 ## You might be looking for...
 
@@ -30,11 +30,11 @@ _* indicates equivalent contribution_
   
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving<br />
   Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, **Qizheng Zhang**, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang<br />
-  SIGCOMM 2024 (to appear) [[preprint]](https://arxiv.org/abs/2310.07240) [[code]](https://github.com/uchi-jcl/cachegen)
+  SIGCOMM 2024 [[preprint]](https://arxiv.org/abs/2310.07240) [[code]](https://github.com/uchi-jcl/cachegen)
 
 - Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents<br />
   **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Nathan Zhang, Muhammad Shahbaz, Kunle Olukotun<br />
-  OSDI 2024 [website] [[paper]](https://www.usenix.org/system/files/osdi24-zhang-qizheng.pdf) [code] [slides] [talk]
+  OSDI 2024 [[paper]](https://www.usenix.org/system/files/osdi24-zhang-qizheng.pdf) [[code]](https://github.com/Per-Packet-AI/Caravan-Artifact-OSDI24) [[slides]](https://alex-q-z.github.io/files/caravan-osdi24-slides.pdf) [talk]
 
 - The Dataflow Abstract Machine Simulator Framework<br />
   Nathan Zhang, Rubens Lacouture, Gina Sohn, Paul Mure, **Qizheng Zhang**, Fredrik Kjolstad, Kunle Olukotun<br />
