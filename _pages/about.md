@@ -18,9 +18,9 @@ Last updated: July 2024
 
 ## You might be looking for...
 
-Personal SF bay area boba/dining map: See [here](https://www.google.com/maps/d/u/0/edit?mid=1IePP2h7zoIItNHsD3XqoUHR783AmUMw) (under construction).
+Personal SF bay area boba/dining map: See [here](https://www.google.com/maps/d/u/0/edit?mid=1IePP2h7zoIItNHsD3XqoUHR783AmUMw).
 
-For Summer 2024, the Stanford systems reading group is Tuesday every week 3 - 4 pm at Gates 415. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
+For Summer 2024, the Stanford systems reading group is Monday every week 4 - 5 pm at Gates 459. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
 
 ## Research
 _* indicates equivalent contribution_
@@ -30,11 +30,12 @@ _* indicates equivalent contribution_
   
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving<br />
   Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, **Qizheng Zhang**, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang<br />
-  SIGCOMM 2024 [[preprint]](https://arxiv.org/abs/2310.07240) [[code]](https://github.com/uchi-jcl/cachegen)
+  SIGCOMM 2024 [[paper]](https://arxiv.org/abs/2310.07240) [[code]](https://github.com/uchi-jcl/cachegen)
 
 - Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents<br />
   **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Nathan Zhang, Muhammad Shahbaz, Kunle Olukotun<br />
-  OSDI 2024 [[paper]](https://www.usenix.org/system/files/osdi24-zhang-qizheng.pdf) [[code]](https://github.com/Per-Packet-AI/Caravan-Artifact-OSDI24) [[slides]](https://alex-q-z.github.io/files/caravan-osdi24-slides.pdf) [talk]
+  OSDI 2024 [[paper]](https://alex-q-z.github.io/files/caravan-osdi24.pdf) [[code]](https://github.com/Per-Packet-AI/Caravan-Artifact-OSDI24) [[slides]](https://alex-q-z.github.io/files/caravan-osdi24-slides.pdf) [talk]<br />
+  A shorter version of this work was presented at the [Compound AI Systems Workshop](https://sites.google.com/view/compound-ai-systems-workshop/home).
 
 - The Dataflow Abstract Machine Simulator Framework<br />
   Nathan Zhang, Rubens Lacouture, Gina Sohn, Paul Mure, **Qizheng Zhang**, Fredrik Kjolstad, Kunle Olukotun<br />
