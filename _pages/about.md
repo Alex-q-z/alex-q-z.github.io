@@ -14,7 +14,7 @@ Previously, I obtained my bachelor's degree from the University of Chicago, with
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: July 2024
+Last updated: August 2024
 
 ## You might be looking for...
 
@@ -26,7 +26,7 @@ For Summer 2024, the Stanford systems reading group is Monday every week 4 - 5 p
 _* indicates equivalent contribution_
 - CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion<br />
   Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, **Qizheng Zhang**, Kuntai Du, Shan Lu, Junchen Jiang<br />
-  arXiv [[preprint]](https://arxiv.org/abs/2405.16444) [[code]](https://github.com/YaoJiayi/CacheBlend)
+  EuroSys 2025 (to appear) [[paper]](https://arxiv.org/abs/2405.16444) [[code]](https://github.com/YaoJiayi/CacheBlend)
   
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving<br />
   Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, **Qizheng Zhang**, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang<br />
@@ -44,7 +44,7 @@ _* indicates equivalent contribution_
   
 - GRACE: Loss-Resilient Real-Time Video through Neural Codecs<br />
   Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yue Zhang, **Qizheng Zhang**, Yuhan Liu, Kuntai Du, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
-  NSDI 2024 [[website]](https://uchi-jcl.github.io/grace.html) [[paper]](https://www.usenix.org/system/files/nsdi24-cheng.pdf) [[code]](https://github.com/UChi-JCL/Grace)
+  NSDI 2024 [[website]](https://uchi-jcl.github.io/grace.html) [[paper]](https://arxiv.org/abs/2305.12333) [[code]](https://github.com/UChi-JCL/Grace)
   
 - OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation<br />
   Kuntai Du, Yuhan Liu, Yitian Hao, **Qizheng Zhang**, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang<br />
@@ -52,7 +52,7 @@ _* indicates equivalent contribution_
 
 - Optimizing Real-Time Video Experience with Data Scalable Codec<br />
   Hanchen Li\*, Yihua Cheng\*, Ziyi Zhang, **Qizheng Zhang**, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
-  SIGCOMM EMS Workshop 2023 [[paper]](https://alex-q-z.github.io/files/autoencoder-ems23.pdf)
+  SIGCOMM 2023 Workshop on Emerging Multimedia Systems [[paper]](https://alex-q-z.github.io/files/autoencoder-ems23.pdf)
 
 - AccMPEG: Optimizing Video Encoding for Video Analytics<br />
   Kuntai Du, **Qizheng Zhang**, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang<br />
