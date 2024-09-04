@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Ph.D. student at Stanford University. My research interest is computer networks, distributed systems, and machine learning. My advisor is Kunle Olukotun.
+I am a second-year CS Ph.D. student at Stanford University. My advisor is Kunle Olukotun.
 
-Previously, I obtained my bachelor's degree from the University of Chicago, with three majors in mathematics, computer science, and statistics. During my undergraduate years, I was fortunate to work with Junchen Jiang and Ravi Netravali on video streaming and analytics. 
+My research interest is broadly in computer systems and machine learning. In particular, I focus on addressing system challenges (e.g. performance and resource usage, security and reliability) in scaling AI models (e.g. large language models, video analytics models). Three selected projects:
+- Caravan (OSDI 2024, leading): Keeping specialized in-network ML models up-to-date with changing network traffic dynamics with an LLM-based data labeling agent.
+- CacheGen (SIGCOMM 2024): Compressing LLM KV cache into compact bitstreams for streaming and fast model inference serving. 
+- DDS (SIGCOMM 2020): Scaling video analytics models to cheap and compute-constraint edges with server-driven streaming of salient video regions. 
+
+Previously, I obtained my bachelor's degree from the University of Chicago, with three majors in mathematics, computer science, and statistics. During my undergraduate years, I was fortunate to work with Junchen Jiang and Ravi Netravali on computer networking, with a focus on designing networked systems for video streaming and analytics. 
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: August 2024
+Last updated: September 2024
 
 ## You might be looking for...
 
@@ -74,6 +79,6 @@ _* indicates equivalent contribution_
   Course Assistant, Autumn 2021
 
 ## Service
-- Reviewer: NeurIPS 2024
+- Reviewer: NeurIPS 2024, ICLR 2025
 - Artifact Evaluation Committee: MLSys 2023, OSDI 2023, ATC 2023
 - Stanford Computer Science Student Applicant Support Program: 2022, 2023
