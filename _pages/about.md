@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Ph.D. student at Stanford University. My advisor is Kunle Olukotun.
+I am a third-year CS Ph.D. student at Stanford University. My advisor is Kunle Olukotun.
 
 My research interest is broadly in computer systems and machine learning. In particular, I focus on addressing system challenges (e.g. performance and resource usage, security and reliability) in scaling AI models (e.g. large language models, video analytics models). Three selected projects:
 - Caravan (OSDI 2024, leading): Keeping specialized in-network ML models up-to-date with changing network traffic dynamics with an LLM-based data labeling agent.
@@ -31,7 +31,7 @@ For Summer 2024, the Stanford systems reading group is Monday every week 4 - 5 p
 _* indicates equivalent contribution_
 - CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion<br />
   Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, **Qizheng Zhang**, Kuntai Du, Shan Lu, Junchen Jiang<br />
-  EuroSys 2025 (to appear) [[paper]](https://arxiv.org/abs/2405.16444) [[code]](https://github.com/YaoJiayi/CacheBlend)
+  EuroSys 2025 [[paper]](https://arxiv.org/abs/2405.16444) [[code]](https://github.com/YaoJiayi/CacheBlend)
   
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving<br />
   Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, **Qizheng Zhang**, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang<br />
@@ -39,8 +39,9 @@ _* indicates equivalent contribution_
 
 - Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents<br />
   **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Nathan Zhang, Muhammad Shahbaz, Kunle Olukotun<br />
-  OSDI 2024 [[paper]](https://alex-q-z.github.io/files/caravan-osdi24.pdf) [[code]](https://github.com/Per-Packet-AI/Caravan-Artifact-OSDI24) [[slides]](https://alex-q-z.github.io/files/caravan-osdi24-slides.pdf) [talk]<br />
+  OSDI 2024 [[paper]](https://alex-q-z.github.io/files/caravan-osdi24.pdf) [[code]](https://github.com/Per-Packet-AI/Caravan-Artifact-OSDI24) [[slides]](https://alex-q-z.github.io/files/caravan-osdi24-slides.pdf) [[talk]](https://www.youtube.com/watch?v=79_lGeVXk4g)<br />
   A shorter version of this work was presented at the [Compound AI Systems Workshop](https://sites.google.com/view/compound-ai-systems-workshop/home).
+  <span style="color: #0096FE; font-weight: bold;">SRC JUMP 2.0 Best Paper Award</span>
 
 - The Dataflow Abstract Machine Simulator Framework<br />
   Nathan Zhang, Rubens Lacouture, Gina Sohn, Paul Mure, **Qizheng Zhang**, Fredrik Kjolstad, Kunle Olukotun<br />
