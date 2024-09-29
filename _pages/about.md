@@ -23,13 +23,13 @@ Last updated: September 2024
 
 ## You might be looking for...
 
-Personal SF bay area boba/dining map: See [here](https://www.google.com/maps/d/u/0/edit?mid=1IePP2h7zoIItNHsD3XqoUHR783AmUMw).
+**Personal SF bay area boba/dining map: See [here](https://www.google.com/maps/d/u/0/edit?mid=1IePP2h7zoIItNHsD3XqoUHR783AmUMw).**
 
-For Summer 2024, the Stanford systems reading group is Monday every week 4 - 5 pm at Gates 459. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
+For Autumn 2024, the Stanford systems reading group is Tuesday every week 2 - 3 pm. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
 
 ## Research
 _* indicates equivalent contribution_
-- CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion<br />
+- CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
   Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, **Qizheng Zhang**, Kuntai Du, Shan Lu, Junchen Jiang<br />
   EuroSys 2025 [[paper]](https://arxiv.org/abs/2405.16444) [[code]](https://github.com/YaoJiayi/CacheBlend)
   
@@ -40,7 +40,7 @@ _* indicates equivalent contribution_
 - Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents<br />
   **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Nathan Zhang, Muhammad Shahbaz, Kunle Olukotun<br />
   OSDI 2024 [[paper]](https://alex-q-z.github.io/files/caravan-osdi24.pdf) [[code]](https://github.com/Per-Packet-AI/Caravan-Artifact-OSDI24) [[slides]](https://alex-q-z.github.io/files/caravan-osdi24-slides.pdf) [[talk]](https://www.youtube.com/watch?v=79_lGeVXk4g)<br />
-  A shorter version of this work was presented at the [Compound AI Systems Workshop](https://sites.google.com/view/compound-ai-systems-workshop/home).
+  A shorter version of this work was presented at the [Compound AI Systems Workshop](https://sites.google.com/view/compound-ai-systems-workshop/home).<br />
   <span style="color: #0096FE; font-weight: bold;">SRC JUMP 2.0 Best Paper Award</span>
 
 - The Dataflow Abstract Machine Simulator Framework<br />
@@ -80,6 +80,6 @@ _* indicates equivalent contribution_
   Course Assistant, Autumn 2021
 
 ## Service
-- Reviewer: NeurIPS 2024, ICLR 2025
+- Reviewer: NeurIPS 2024, NeurIPS 2024 Machine Learning and Compression Workshop, ICLR 2025, AISTATS 2025
 - Artifact Evaluation Committee: MLSys 2023, OSDI 2023, ATC 2023
 - Stanford Computer Science Student Applicant Support Program: 2022, 2023
