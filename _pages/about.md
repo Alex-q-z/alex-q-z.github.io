@@ -39,8 +39,8 @@ _* indicates equivalent contribution_
 
 - Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents<br />
   **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Nathan Zhang, Muhammad Shahbaz, Kunle Olukotun<br />
-  USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2024 [[paper]](https://alex-q-z.github.io/files/caravan-osdi24.pdf) [[code]](https://github.com/Per-Packet-AI/Caravan-Artifact-OSDI24) [[slides]](https://alex-q-z.github.io/files/caravan-osdi24-slides.pdf) [[talk]](https://www.youtube.com/watch?v=79_lGeVXk4g)<br />
-  A shorter version of this work was presented at [the Compound AI Systems Workshop](https://sites.google.com/view/compound-ai-systems-workshop/home) and [the PACMI'24 Workshop](https://sites.google.com/view/pacmi/home), co-located with SOSP 2024.<br />
+  USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2024 [[paper]](https://alex-q-z.github.io/files/caravan-osdi24.pdf) [[code]](https://github.com/Per-Packet-AI/Caravan-Artifact-OSDI24) [[slides]](https://alex-q-z.github.io/files/caravan-osdi24-slides-extended.pdf) [[talk]](https://www.youtube.com/watch?v=79_lGeVXk4g)<br />
+  A shorter version of this work was presented at [the Compound AI Systems Workshop](https://sites.google.com/view/compound-ai-systems-workshop/home) and [the PACMI'24 Workshop](https://sites.google.com/view/pacmi/home).<br />
   <span style="color: #0096FE; font-weight: bold;">SRC JUMP 2.0 Best Paper Award</span>
 
 - The Dataflow Abstract Machine Simulator Framework<br />
