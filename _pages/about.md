@@ -13,9 +13,9 @@ I am a third-year CS Ph.D. student at Stanford University. My advisor is Kunle O
 My research interest is broadly in computer systems and machine learning. In particular, I focus on addressing system challenges (e.g. performance, resource efficiency, reliability) in scaling AI models (e.g. large language models, video analytics models). 
 
 Some projects that I have worked on: 
-- Agentic Systems: [[Caravan]](https://alex-q-z.github.io/files/caravan-osdi24.pdf) \[OSDI 2024\]
-- KV Cache Management for LLM Inference: [[CacheGen]](https://arxiv.org/abs/2310.07240) \[SIGCOMM 2024\], [[CacheBlend]](https://arxiv.org/abs/2405.16444) \[EuroSys 2025\]
-- Video Streaming and Analytics: [[DDS]](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) \[SIGCOMM 2020\], [[AccMPEG]](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) \[MLSys 2022\], [[OneAdapt]](https://alex-q-z.github.io/files/oneadapt-socc23.pdf) \[SoCC 2023\], [[Grace]](https://arxiv.org/abs/2305.12333) \[NSDI 2024\]
+- Agentic Systems: [Caravan](https://alex-q-z.github.io/files/caravan-osdi24.pdf) \[OSDI 2024\]
+- KV Cache Management for LLM Inference: [CacheGen](https://arxiv.org/abs/2310.07240) \[SIGCOMM 2024\], [CacheBlend](https://arxiv.org/abs/2405.16444) \[EuroSys 2025\]
+- Video Streaming and Analytics: [DDS](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) \[SIGCOMM 2020\], [AccMPEG](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) \[MLSys 2022\], [OneAdapt](https://alex-q-z.github.io/files/oneadapt-socc23.pdf) \[SoCC 2023\], [Grace](https://arxiv.org/abs/2305.12333) \[NSDI 2024\]
 
 <!-- Three selected projects:
 - Caravan (OSDI 2024, leading): Keeping specialized in-network ML models up-to-date with changing network traffic dynamics with an LLM-based data labeling agent.
