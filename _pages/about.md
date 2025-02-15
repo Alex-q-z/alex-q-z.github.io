@@ -10,30 +10,29 @@ redirect_from:
 
 I am a third-year CS Ph.D. student at Stanford University. My advisor is Kunle Olukotun.
 
-My research interest is broadly in computer systems and machine learning. In particular, I focus on addressing system challenges (e.g. performance, resource efficiency, reliability) in scaling AI models (e.g. large language models, video analytics models). Some projects that I have worked on are: 
+My research interest is broadly in computer systems and machine learning, with a recent focus on designing performant, scalable, and resource-efficient systems for large-scale machine learning model deployments. I am particularly passionate about adapting classic ML and systems techniques (such as caching, distillation, quantization, etc.) to address emerging challenges in AI applications. Some projects that I have been working on are: 
 - Agentic Systems: [Caravan](https://alex-q-z.github.io/files/caravan-osdi24.pdf) \[OSDI 2024\]
-- KV Cache Management for LLM Inference: [CacheGen](https://arxiv.org/abs/2310.07240) \[SIGCOMM 2024\], [CacheBlend](https://arxiv.org/abs/2405.16444) \[EuroSys 2025\]
-- Video Streaming and Analytics: [DDS](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) \[SIGCOMM 2020\], [AccMPEG](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) \[MLSys 2022\], [OneAdapt](https://alex-q-z.github.io/files/oneadapt-socc23.pdf) \[SoCC 2023\], [Grace](https://arxiv.org/abs/2305.12333) \[NSDI 2024\]
-
-<!-- Three selected projects:
-- Caravan (OSDI 2024, leading): Keeping specialized in-network ML models up-to-date with changing network traffic dynamics with an LLM-based data labeling agent.
-- CacheGen (SIGCOMM 2024): Compressing LLM KV cache into compact bitstreams for streaming and fast model inference serving. 
-- DDS (SIGCOMM 2020): Scaling video analytics models to cheap and compute-constraint edges with server-driven streaming of salient video regions.  -->
+- KV Cache Management for LLMs: [CacheGen](https://arxiv.org/abs/2310.07240) \[SIGCOMM 2024\], [CacheBlend](https://arxiv.org/abs/2405.16444) \[EuroSys 2025\]
+- Video Streaming and Analytics: [DDS](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) \[SIGCOMM 2020\], [Saliency+Video](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) \[HotMobile 2022\], [AccMPEG](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) \[MLSys 2022\], [OneAdapt](https://alex-q-z.github.io/files/oneadapt-socc23.pdf) \[SoCC 2023\], [Grace](https://arxiv.org/abs/2305.12333) \[NSDI 2024\]
 
 Previously, I obtained my bachelor's degree from the University of Chicago, with three majors in mathematics, computer science, and statistics. During my undergraduate years, I was fortunate to work with Junchen Jiang and Ravi Netravali on computer networking, with a focus on designing networked systems for video streaming and analytics. 
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: December 2024
+Last updated: February 2025
 
 ## You might be looking for...
 
 **Personal SF bay area boba/dining map: See [here](https://www.google.com/maps/d/u/0/edit?mid=1IePP2h7zoIItNHsD3XqoUHR783AmUMw).**
 
-For Autumn 2024, the Stanford systems reading group is Tuesday every week 2 - 3 pm. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
+For Winter 2025, the Stanford systems reading group is Wednesday every week 3 - 4 pm. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
 
 ## Publications
 _* indicates equivalent contribution_
+- LowRA: Accurate and Efficient LoRA Fine-Tuning of LLMs under 2 Bits
+  Zikai Zhou, **Qizheng Zhang**, Hermann Kumbong, Kunle Olukotun
+  arXiv preprint, 2025 [[paper]](https://arxiv.org/pdf/2502.08141)
+
 - CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
   Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, **Qizheng Zhang**, Kuntai Du, Shan Lu, Junchen Jiang<br />
   ACM European Conference on Computer Systems (EuroSys), 2025 [[paper]](https://arxiv.org/abs/2405.16444) [[code]](https://github.com/YaoJiayi/CacheBlend)
@@ -87,7 +86,7 @@ _* indicates equivalent contribution_
 ## Service
 - Program Committee: EuroSys 2025 (Shadow PC)
 - Artifact Evaluation Committee: MLSys 2023, OSDI 2023, ATC 2023
-- Conference Reviewer: NeurIPS 2024, ICLR 2025, AISTATS 2025
-- Workshop Reviewer: Workshop on Machine Learning and Compression (NeurIPS 2024)
+- Conference Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025
+- Workshop Reviewer: Workshop on Machine Learning and Compression at NeurIPS 2024
 - Stanford Computer Science Undergraduate Mentoring Program: 2024
 - Stanford Computer Science Student Applicant Support Program: 2022, 2023, 2024
