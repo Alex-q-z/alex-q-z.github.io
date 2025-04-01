@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year CS Ph.D. student at Stanford University. My advisor is Kunle Olukotun.
+I am a third-year CS Ph.D. student at Stanford University. I am a member of [Stanford Pervasive Parallelism Lab](https://ppl.stanford.edu/) and [LMCache](https://github.com/LMCache/LMCache/). My advisor is Kunle Olukotun. I have also been working with Junchen Jiang and Muhammad Shahbaz. 
 
-My research interest is broadly in computer systems and machine learning, with a recent focus on designing performant, scalable, and resource-efficient systems for large-scale machine learning model deployments. I am particularly passionate about adapting classic ML and systems techniques (such as caching, distillation, quantization, etc.) to address emerging challenges in AI applications. Some projects that I have been working on are: 
+My research interest is broadly in computer systems (networking, operating/distributed systems, architecture) and machine learning. Some projects that I have been working on are: 
 - Agentic Systems: [Caravan](https://alex-q-z.github.io/files/caravan-osdi24.pdf) \[OSDI 2024\]
 - KV Cache Management for LLMs: [CacheGen](https://arxiv.org/abs/2310.07240) \[SIGCOMM 2024\], [CacheBlend](https://arxiv.org/abs/2405.16444) \[EuroSys 2025\]
 - Video Streaming and Analytics: [DDS](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) \[SIGCOMM 2020\], [Saliency+Video](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) \[HotMobile 2022\], [AccMPEG](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) \[MLSys 2022\], [OneAdapt](https://alex-q-z.github.io/files/oneadapt-socc23.pdf) \[SoCC 2023\], [Grace](https://arxiv.org/abs/2305.12333) \[NSDI 2024\]
 
-Previously, I obtained my bachelor's degree from the University of Chicago, with three majors in mathematics, computer science, and statistics. During my undergraduate years, I was fortunate to work with Junchen Jiang and Ravi Netravali on computer networking, with a focus on designing networked systems for video streaming and analytics. 
+Previously, I obtained my bachelor's degree from the University of Chicago, with three majors in mathematics, computer science, and statistics. During my undergraduate years, I was fortunate to work with Junchen Jiang and Ravi Netravali on computer networking, with a focus on designing networked systems for video streaming and analytics. I had also interned at the Mathematics and Computer Science Division (MCS) at Argonne National Laboratory. 
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
 
-Last updated: February 2025
+Last updated: April 2025
 
 ## You might be looking for...
 
@@ -35,7 +35,8 @@ _* indicates equivalent contribution_
 
 - CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
   Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, **Qizheng Zhang**, Kuntai Du, Shan Lu, Junchen Jiang<br />
-  ACM European Conference on Computer Systems (EuroSys), 2025 [[paper]](https://arxiv.org/abs/2405.16444) [[code]](https://github.com/YaoJiayi/CacheBlend)
+  ACM European Conference on Computer Systems (EuroSys), 2025 [[paper]](https://arxiv.org/abs/2405.16444) [[code]](https://github.com/YaoJiayi/CacheBlend)<br />
+  <span style="color: #B90E0A; font-weight: bold;">EuroSys Best Paper Award</span>
   
 - CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving<br />
   Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, **Qizheng Zhang**, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang<br />
@@ -45,12 +46,12 @@ _* indicates equivalent contribution_
   **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Nathan Zhang, Muhammad Shahbaz, Kunle Olukotun<br />
   USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2024 [[paper]](https://alex-q-z.github.io/files/caravan-osdi24.pdf) [[code]](https://github.com/Per-Packet-AI/Caravan-Artifact-OSDI24) [[slides]](https://alex-q-z.github.io/files/caravan-osdi24-slides-extended.pdf) [[talk]](https://www.youtube.com/watch?v=79_lGeVXk4g)<br />
   A shorter version of this work was presented at [the Compound AI Systems Workshop](https://sites.google.com/view/compound-ai-systems-workshop/home) and [the PACMI'24 Workshop](https://sites.google.com/view/pacmi/home).<br />
-  <span style="color: #0096FE; font-weight: bold;">SRC JUMP 2.0 Best Paper Award</span>
+  <span style="color: #B90E0A; font-weight: bold;">SRC JUMP 2.0 Best Paper Award</span>
 
 - The Dataflow Abstract Machine Simulator Framework<br />
   Nathan Zhang, Rubens Lacouture, Gina Sohn, Paul Mure, **Qizheng Zhang**, Fredrik Kjolstad, Kunle Olukotun<br />
   ACM/IEEE International Symposium on Computer Architecture (ISCA), 2024 [[paper]](https://alex-q-z.github.io/files/dam-isca24.pdf) [[code]](https://github.com/stanford-ppl/DAM-RS)<br />
-  <span style="color: #0096FE; font-weight: bold;">ISCA Distinguished Artifact Award</span>
+  <span style="color: #B90E0A; font-weight: bold;">ISCA Distinguished Artifact Award</span>
   
 - GRACE: Loss-Resilient Real-Time Video through Neural Codecs<br />
   Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yue Zhang, **Qizheng Zhang**, Yuhan Liu, Kuntai Du, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
