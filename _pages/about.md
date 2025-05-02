@@ -31,7 +31,7 @@ For Winter 2025, the Stanford systems reading group is Wednesday every week 3 - 
 _* indicates equivalent contribution_
 - LowRA: Accurate and Efficient LoRA Fine-Tuning of LLMs under 2 Bits<br />
   Zikai Zhou, **Qizheng Zhang**, Hermann Kumbong, Kunle Olukotun<br />
-  arXiv preprint, 2025 [[paper]](https://arxiv.org/pdf/2502.08141)
+  International Conference on Machine Learning (ICML), 2025 [[paper]](https://arxiv.org/pdf/2502.08141)
 
 - CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
   Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, **Qizheng Zhang**, Kuntai Du, Shan Lu, Junchen Jiang<br />
