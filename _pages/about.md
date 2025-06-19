@@ -17,18 +17,23 @@ My research interest is broadly in computer systems (networking, operating/distr
 
 Previously, I obtained my bachelor's degree from the University of Chicago, with three majors in mathematics, computer science, and statistics. During my undergraduate years, I was fortunate to work with Junchen Jiang and Ravi Netravali on computer networking, with a focus on designing networked systems for video streaming and analytics. I had also interned at the Mathematics and Computer Science Division (MCS) at Argonne National Laboratory. 
 
-The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex.
+The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex. 
 
-Last updated: April 2025
+Last updated: June 2025
 
 ## You might be looking for...
 
 **Personal SF bay area boba/dining map: See [here](https://www.google.com/maps/d/u/0/edit?mid=1IePP2h7zoIItNHsD3XqoUHR783AmUMw).**
 
-For Winter 2025, the Stanford systems reading group is Wednesday every week 3 - 4 pm. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining!
+<!-- For Winter 2025, the Stanford systems reading group is Wednesday every week 3 - 4 pm. We read and discuss research papers in the general domain of systems. The webpage is [here](https://systems-reading.github.io/). Sign up for the mailing list [here](https://mailman.stanford.edu/mailman/listinfo/systems_reading). We have free and high-quality boba for all participants, so please consider joining! -->
 
 ## Publications
 _* indicates equivalent contribution_
+- Cost-Efficient Serving of LLM Agents via Test-Time Plan Caching<br />
+  **Qizheng Zhang**, Michael Wornow, Kunle Olukotun<br />
+  arXiv preprint [[paper]](https://arxiv.org/abs/2506.14852)<br />
+  ICML Workshop on Efficient Systems for Foundation Models (ES-FoMo), 2025
+
 - LowRA: Accurate and Efficient LoRA Fine-Tuning of LLMs under 2 Bits<br />
   Zikai Zhou, **Qizheng Zhang**, Hermann Kumbong, Kunle Olukotun<br />
   International Conference on Machine Learning (ICML), 2025 [[paper]](https://arxiv.org/pdf/2502.08141)
