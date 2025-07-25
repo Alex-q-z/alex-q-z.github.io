@@ -11,15 +11,15 @@ redirect_from:
 I am a third-year CS Ph.D. student at Stanford University. I am a member of [Stanford Pervasive Parallelism Lab](https://ppl.stanford.edu/) and [LMCache](https://github.com/LMCache/LMCache/). My advisor is Kunle Olukotun. I have also been working with Junchen Jiang and Muhammad Shahbaz. 
 
 My research interest is broadly in computer systems (networking, operating/distributed systems, architecture) and machine learning. Some projects that I have been working on are: 
-- Agentic Systems: [Caravan](https://alex-q-z.github.io/files/caravan-osdi24.pdf) \[OSDI 2024\]
+- Agentic Systems: [Caravan](https://alex-q-z.github.io/files/caravan-osdi24.pdf) \[OSDI 2024\], [Agentic Plan Caching](https://arxiv.org/abs/2506.14852) \[ICML ES-FoMo 2025\]
 - KV Cache Management for LLMs: [CacheGen](https://arxiv.org/abs/2310.07240) \[SIGCOMM 2024\], [CacheBlend](https://arxiv.org/abs/2405.16444) \[EuroSys 2025\]
-- Video Streaming and Analytics: [DDS](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) \[SIGCOMM 2020\], [Saliency+Video](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) \[HotMobile 2022\], [AccMPEG](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) \[MLSys 2022\], [OneAdapt](https://alex-q-z.github.io/files/oneadapt-socc23.pdf) \[SoCC 2023\], [Grace](https://arxiv.org/abs/2305.12333) \[NSDI 2024\]
 
-Previously, I obtained my bachelor's degree from the University of Chicago, with three majors in mathematics, computer science, and statistics. During my undergraduate years, I was fortunate to work with Junchen Jiang and Ravi Netravali on computer networking, with a focus on designing networked systems for video streaming and analytics. I had also interned at the Mathematics and Computer Science Division (MCS) at Argonne National Laboratory. 
+Previously, I obtained my bachelor's degree from the University of Chicago, with three majors in mathematics, computer science, and statistics. During my undergraduate years, I was fortunate to work with Junchen Jiang and Ravi Netravali on computer networking, with a focus on designing networked systems for video streaming and analytics. I had also interned at the Mathematics and Computer Science Division (MCS) at Argonne National Laboratory. Past projects during college:
+- Video Streaming and Analytics: [DDS](https://alex-q-z.github.io/files/DDS-sigcomm20.pdf) \[SIGCOMM 2020\], [Saliency+Video](https://alex-q-z.github.io/files/saliency_hotmobile22.pdf) \[HotMobile 2022\], [AccMPEG](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) \[MLSys 2022\], [OneAdapt](https://alex-q-z.github.io/files/oneadapt-socc23.pdf) \[SoCC 2023\], [Grace](https://arxiv.org/abs/2305.12333) \[NSDI 2024\]
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex. 
 
-Last updated: June 2025
+Last updated: July 2025
 
 ## You might be looking for...
 
@@ -32,11 +32,12 @@ _* indicates equivalent contribution_
 - Cost-Efficient Serving of LLM Agents via Test-Time Plan Caching<br />
   **Qizheng Zhang**, Michael Wornow, Kunle Olukotun<br />
   arXiv preprint [[paper]](https://arxiv.org/abs/2506.14852)<br />
-  ICML Workshop on Efficient Systems for Foundation Models (ES-FoMo), 2025
+  ICML Workshop on Efficient Systems for Foundation Models (ES-FoMo), 2025<br />
+  Thanks to the Discover AI youtube channel for making a nice [video](https://www.youtube.com/watch?v=njw0mLSEejA) about our work! 
 
 - LowRA: Accurate and Efficient LoRA Fine-Tuning of LLMs under 2 Bits<br />
   Zikai Zhou, **Qizheng Zhang**, Hermann Kumbong, Kunle Olukotun<br />
-  International Conference on Machine Learning (ICML), 2025 [[paper]](https://arxiv.org/pdf/2502.08141)
+  International Conference on Machine Learning (ICML), 2025 [[paper]](https://arxiv.org/pdf/2502.08141) [[code]](https://github.com/stanford-ppl/LowRA)
 
 - CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
   Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, **Qizheng Zhang**, Kuntai Du, Shan Lu, Junchen Jiang<br />
@@ -92,7 +93,7 @@ _* indicates equivalent contribution_
 ## Service
 - Program Committee: EuroSys 2025 (Shadow PC)
 - Artifact Evaluation Committee: MLSys 2023, OSDI 2023, ATC 2023
-- Conference Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025
-- Workshop Reviewer: Workshop on Machine Learning and Compression at NeurIPS 2024
+- Conference Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025, NeurIPS 2025 Datasets and Benchmarks Track
+- Workshop Reviewer: Workshop on Machine Learning and Compression at NeurIPS 2024, Workshop on Efficient Systems for Foundation Models (ES-FoMo) at ICML 2025
 - Stanford Computer Science Undergraduate Mentoring Program: 2024
 - Stanford Computer Science Student Applicant Support Program: 2022, 2023, 2024
