@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year CS Ph.D. student at Stanford University. I am a member of [Stanford Pervasive Parallelism Lab](https://ppl.stanford.edu/) and [LMCache](https://github.com/LMCache/LMCache/). My advisor is Kunle Olukotun. I have also been working with Junchen Jiang and Muhammad Shahbaz. 
+I am a fourth-year CS Ph.D. student at Stanford University. I am a member of [Stanford Pervasive Parallelism Lab](https://ppl.stanford.edu/) and [LMCache](https://github.com/LMCache/LMCache/). My advisor is Kunle Olukotun. I have also been working with Junchen Jiang and Muhammad Shahbaz. 
 
 My research interest is broadly in computer systems (networking, operating/distributed systems, architecture) and machine learning. Some projects that I have been working on are: 
-- Agentic Systems: [Caravan](https://alex-q-z.github.io/files/caravan-osdi24.pdf) \[OSDI 2024\], [Agentic Plan Caching](https://arxiv.org/abs/2506.14852) \[ICML ES-FoMo 2025\]
+- Agentic Systems: [Caravan](https://alex-q-z.github.io/files/caravan-osdi24.pdf) \[OSDI 2024\], [Agentic Plan Caching](https://arxiv.org/abs/2506.14852) \[NeurIPS 2025\]
 - KV Cache Management for LLMs: [CacheGen](https://arxiv.org/abs/2310.07240) \[SIGCOMM 2024\], [CacheBlend](https://arxiv.org/abs/2405.16444) \[EuroSys 2025\]
 
 Previously, I obtained my bachelor's degree from the University of Chicago, with three majors in mathematics, computer science, and statistics. During my undergraduate years, I was fortunate to work with Junchen Jiang and Ravi Netravali on computer networking, with a focus on designing networked systems for video streaming and analytics. I had also interned at the Mathematics and Computer Science Division (MCS) at Argonne National Laboratory. Past projects during college:
@@ -19,7 +19,7 @@ Previously, I obtained my bachelor's degree from the University of Chicago, with
 
 The pronunciation of my first name (Qizheng) is very close to that of "keygen" in public key encryption. I also go by Alex. 
 
-Last updated: July 2025
+Last updated: September 2025
 
 ## You might be looking for...
 
@@ -29,10 +29,18 @@ Last updated: July 2025
 
 ## Publications
 _* indicates equivalent contribution_
-- Cost-Efficient Serving of LLM Agents via Test-Time Plan Caching<br />
+- Agentic Bridge Framework: Closing the Gap Between Agentic Capability and Performance Benchmarks<br />
+  Yun Du, Rubens Lacouture, **Qizheng Zhang**, Genghan Zhang, Tian Zhao, Kunle Olukotun<br />
+  NeurIPS Workshop on Machine Learning for Systems, 2025 [[paper]](https://alex-q-z.github.io/)
+
+- FlowRL: Matching Reward Distributions for LLM Reasoning<br />
+  Xuekai Zhu, Daixuan Cheng, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, **Qizheng Zhang**, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin<br />
+  arXiv preprint, 2025 [[paper]](https://arxiv.org/pdf/2509.15207) [[code]](https://github.com/Xuekai-Zhu/FlowRL)
+
+- Agentic Plan Caching: Test-Time Memory for Cost-Efficient LLM Agents<br />
   **Qizheng Zhang**, Michael Wornow, Kunle Olukotun<br />
-  arXiv preprint [[paper]](https://arxiv.org/abs/2506.14852)<br />
-  ICML Workshop on Efficient Systems for Foundation Models (ES-FoMo), 2025<br />
+  Conference on Neural Information Processing Systems (NeurIPS), 2025 [[paper]](https://arxiv.org/abs/2506.14852)<br />
+  A short version of this work was published at ICML 2025 Workshop on Efficient Systems for Foundation Models (ES-FoMo).<br />
   Thanks to the Discover AI youtube channel for making a nice [video](https://www.youtube.com/watch?v=njw0mLSEejA) about our work! 
 
 - LowRA: Accurate and Efficient LoRA Fine-Tuning of LLMs under 2 Bits<br />
@@ -51,7 +59,7 @@ _* indicates equivalent contribution_
 - Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents<br />
   **Qizheng Zhang**, Ali Imran, Enkeleda Bardhi, Tushar Swamy, Nathan Zhang, Muhammad Shahbaz, Kunle Olukotun<br />
   USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2024 [[paper]](https://alex-q-z.github.io/files/caravan-osdi24.pdf) [[code]](https://github.com/Per-Packet-AI/Caravan-Artifact-OSDI24) [[slides]](https://alex-q-z.github.io/files/caravan-osdi24-slides-extended.pdf) [[talk]](https://www.youtube.com/watch?v=79_lGeVXk4g)<br />
-  A shorter version of this work was presented at [the Compound AI Systems Workshop](https://sites.google.com/view/compound-ai-systems-workshop/home) and [the PACMI'24 Workshop](https://sites.google.com/view/pacmi/home).<br />
+  A short version of this work was published at [the Compound AI Systems Workshop](https://sites.google.com/view/compound-ai-systems-workshop/home) and [the PACMI'24 Workshop](https://sites.google.com/view/pacmi/home).<br />
   <span style="color: #B90E0A; font-weight: bold;">SRC JUMP 2.0 Best Paper Award</span>
 
 - The Dataflow Abstract Machine Simulator Framework<br />
@@ -92,8 +100,9 @@ _* indicates equivalent contribution_
 
 ## Service
 - Program Committee: EuroSys 2025 (Shadow PC)
+- Area Chair: NeurIPS 2025 Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM)
+- Conference Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025, NeurIPS 2025 Datasets and Benchmarks Track, AAAI 2026, AISTATS 2026
+- Workshop Reviewer: NeurIPS 2024 Workshop on Machine Learning and Compression, ICML 2025 Workshop on Efficient Systems for Foundation Models (ES-FoMo), NeurIPS 2025 Workshop on Efficient Reasoning, NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling, NeurIPS 2025 Workshop on Continual and Compatible Foundation Model Updates
 - Artifact Evaluation Committee: MLSys 2023, OSDI 2023, ATC 2023
-- Conference Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025, NeurIPS 2025 Datasets and Benchmarks Track
-- Workshop Reviewer: Workshop on Machine Learning and Compression at NeurIPS 2024, Workshop on Efficient Systems for Foundation Models (ES-FoMo) at ICML 2025
 - Stanford Computer Science Undergraduate Mentoring Program: 2024
 - Stanford Computer Science Student Applicant Support Program: 2022, 2023, 2024
